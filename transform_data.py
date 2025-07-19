@@ -24,7 +24,17 @@ def age_group(age):
         return 'Senior'
 
 df['Age Group'] = df['Age'].apply(age_group)
+df['Date']= pd.to_datetime(df['Date'], errors='coerce')
+df.sort_values('Date', inplace=True)
+df['Date'] = df['Date'].dt.strftime('%d-%m-%Y')
 
-df.to_csv("cleaned_retail_data.csv", index=False, encoding='utf-8')
-print(df.head())
-print("Data cleaned and saved as 'cleaned_retail_data.csv'")
+
+sales=df.groupby('Date')['Total Amount'].sum()
+top_day=sales.idxmax()
+top_sales=sales.max()
+print(f"\nday with highest sales: {top_day} with rupee {top_sales} ")
+
+
+df.to_csv("cleaned_data.csv", index=False, encoding='utf-8')
+print("\n", df.head())
+print("Data cleaned and saved as 'cleaned_data.csv'")
