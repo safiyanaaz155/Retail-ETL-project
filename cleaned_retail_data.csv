@@ -1,1001 +1,1001 @@
 Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount,Age Group
-522,2023-01-01,CUST522,Male,46,Beauty,3,500,1500,Adult
-180,2023-01-01,CUST180,Male,41,Clothing,3,300,900,Adult
-559,2023-01-01,CUST559,Female,40,Clothing,4,300,1200,Adult
-303,2023-01-02,CUST303,Male,19,Electronics,3,30,90,Young Adult
-979,2023-01-02,CUST979,Female,19,Beauty,1,25,25,Young Adult
-163,2023-01-02,CUST163,Female,64,Clothing,3,50,150,Senior
-421,2023-01-02,CUST421,Female,37,Clothing,3,500,1500,Adult
-610,2023-01-03,CUST610,Female,26,Beauty,2,300,600,Young Adult
-683,2023-01-04,CUST683,Male,38,Beauty,2,500,1000,Adult
-231,2023-01-04,CUST231,Female,23,Clothing,3,50,150,Young Adult
-32,2023-01-04,CUST032,Male,30,Beauty,3,30,90,Young Adult
-391,2023-01-05,CUST391,Male,19,Beauty,2,25,50,Young Adult
-367,2023-01-05,CUST367,Female,57,Electronics,1,50,50,Adult
-432,2023-01-05,CUST432,Female,60,Electronics,2,500,1000,Senior
-150,2023-01-06,CUST150,Female,58,Electronics,4,30,120,Adult
-845,2023-01-06,CUST845,Male,54,Clothing,1,500,500,Adult
-921,2023-01-07,CUST921,Male,51,Electronics,3,25,75,Adult
-797,2023-01-07,CUST797,Male,40,Clothing,3,25,75,Adult
-291,2023-01-08,CUST291,Male,60,Clothing,2,300,600,Senior
-907,2023-01-08,CUST907,Female,45,Electronics,1,25,25,Adult
-860,2023-01-09,CUST860,Male,63,Clothing,4,50,200,Senior
-734,2023-01-10,CUST734,Female,27,Clothing,1,30,30,Young Adult
-184,2023-01-10,CUST184,Male,31,Electronics,4,50,200,Young Adult
-746,2023-01-11,CUST746,Female,33,Clothing,3,30,90,Young Adult
-225,2023-01-11,CUST225,Female,57,Beauty,4,25,100,Adult
-679,2023-01-11,CUST679,Female,18,Beauty,3,30,90,Young Adult
-484,2023-01-13,CUST484,Female,19,Clothing,4,300,1200,Young Adult
-591,2023-01-13,CUST591,Male,53,Electronics,4,25,100,Adult
-3,2023-01-13,CUST003,Male,50,Electronics,1,30,30,Adult
-464,2023-01-13,CUST464,Male,38,Electronics,2,300,600,Adult
-708,2023-01-14,CUST708,Female,43,Beauty,3,300,900,Adult
-768,2023-01-14,CUST768,Female,24,Beauty,3,25,75,Young Adult
-713,2023-01-14,CUST713,Male,34,Beauty,3,25,75,Young Adult
-21,2023-01-14,CUST021,Female,50,Beauty,1,500,500,Adult
-697,2023-01-15,CUST697,Male,53,Clothing,1,500,500,Adult
-831,2023-01-15,CUST831,Male,27,Electronics,4,25,100,Young Adult
-499,2023-01-15,CUST499,Male,46,Beauty,2,30,60,Adult
-743,2023-01-16,CUST743,Female,34,Beauty,4,500,2000,Young Adult
-15,2023-01-16,CUST015,Female,42,Electronics,4,500,2000,Adult
-238,2023-01-17,CUST238,Female,39,Beauty,1,500,500,Adult
-986,2023-01-17,CUST986,Female,49,Clothing,2,500,1000,Adult
-103,2023-01-17,CUST103,Female,59,Clothing,1,25,25,Adult
-14,2023-01-17,CUST014,Male,64,Clothing,4,30,120,Senior
-438,2023-01-19,CUST438,Female,42,Clothing,1,30,30,Adult
-475,2023-01-20,CUST475,Male,26,Clothing,3,25,75,Young Adult
-505,2023-01-20,CUST505,Male,24,Beauty,1,50,50,Young Adult
-448,2023-01-21,CUST448,Female,54,Beauty,2,30,60,Adult
-742,2023-01-21,CUST742,Female,38,Electronics,4,500,2000,Adult
-344,2023-01-21,CUST344,Female,42,Beauty,1,30,30,Adult
-787,2023-01-22,CUST787,Male,41,Electronics,1,25,25,Adult
-445,2023-01-22,CUST445,Female,53,Electronics,1,300,300,Adult
-49,2023-01-23,CUST049,Female,54,Electronics,2,500,1000,Adult
-420,2023-01-23,CUST420,Female,22,Clothing,4,500,2000,Young Adult
-519,2023-01-23,CUST519,Female,36,Electronics,4,30,120,Adult
-64,2023-01-24,CUST064,Male,49,Clothing,4,25,100,Adult
-592,2023-01-24,CUST592,Female,46,Beauty,4,500,2000,Adult
-912,2023-01-24,CUST912,Male,51,Beauty,3,50,150,Adult
-134,2023-01-25,CUST134,Male,49,Electronics,1,50,50,Adult
-288,2023-01-26,CUST288,Male,28,Clothing,4,30,120,Young Adult
-720,2023-01-26,CUST720,Female,56,Beauty,3,500,1500,Adult
-618,2023-01-26,CUST618,Female,27,Beauty,1,50,50,Young Adult
-323,2023-01-26,CUST323,Female,29,Beauty,3,300,900,Young Adult
-929,2023-01-27,CUST929,Female,23,Beauty,3,25,75,Young Adult
-736,2023-01-27,CUST736,Male,29,Clothing,4,25,100,Young Adult
-415,2023-01-27,CUST415,Male,53,Clothing,2,30,60,Adult
-264,2023-01-28,CUST264,Male,47,Clothing,3,300,900,Adult
-940,2023-01-28,CUST940,Female,20,Electronics,1,30,30,Young Adult
-913,2023-01-28,CUST913,Male,29,Electronics,3,30,90,Young Adult
-101,2023-01-29,CUST101,Male,32,Clothing,2,300,600,Young Adult
-317,2023-01-30,CUST317,Male,22,Electronics,3,30,90,Young Adult
-189,2023-01-30,CUST189,Male,63,Beauty,1,50,50,Senior
-322,2023-01-30,CUST322,Male,51,Electronics,1,500,500,Adult
-329,2023-01-30,CUST329,Female,46,Electronics,4,25,100,Adult
-235,2023-01-31,CUST235,Female,23,Electronics,2,500,1000,Young Adult
-300,2023-01-31,CUST300,Female,19,Electronics,4,50,200,Young Adult
-964,2023-01-31,CUST964,Male,24,Clothing,3,300,900,Young Adult
-320,2023-02-01,CUST320,Female,28,Electronics,4,300,1200,Young Adult
-673,2023-02-01,CUST673,Female,43,Clothing,3,500,1500,Adult
-269,2023-02-01,CUST269,Male,25,Clothing,4,500,2000,Young Adult
-142,2023-02-02,CUST142,Male,35,Electronics,4,300,1200,Adult
-666,2023-02-02,CUST666,Male,51,Electronics,3,50,150,Adult
-223,2023-02-02,CUST223,Female,64,Clothing,1,25,25,Senior
-933,2023-02-03,CUST933,Male,22,Beauty,1,30,30,Young Adult
-107,2023-02-03,CUST107,Female,21,Clothing,4,300,1200,Young Adult
-335,2023-02-04,CUST335,Female,47,Beauty,4,30,120,Adult
-237,2023-02-04,CUST237,Female,50,Beauty,2,500,1000,Adult
-530,2023-02-05,CUST530,Female,18,Electronics,4,30,120,Young Adult
-333,2023-02-05,CUST333,Female,54,Electronics,4,300,1200,Adult
-740,2023-02-05,CUST740,Female,25,Beauty,4,50,200,Young Adult
-379,2023-02-05,CUST379,Female,47,Clothing,1,25,25,Adult
-490,2023-02-05,CUST490,Male,34,Clothing,3,50,150,Young Adult
-63,2023-02-05,CUST063,Male,57,Electronics,2,25,50,Adult
-793,2023-02-05,CUST793,Male,54,Beauty,1,30,30,Adult
-195,2023-02-05,CUST195,Male,52,Clothing,1,30,30,Adult
-240,2023-02-06,CUST240,Female,23,Beauty,1,300,300,Young Adult
-993,2023-02-06,CUST993,Female,48,Electronics,3,50,150,Adult
-232,2023-02-06,CUST232,Female,43,Beauty,1,25,25,Adult
-85,2023-02-06,CUST085,Male,31,Clothing,3,50,150,Young Adult
-372,2023-02-07,CUST372,Female,24,Beauty,3,500,1500,Young Adult
-366,2023-02-07,CUST366,Male,57,Clothing,2,50,100,Adult
-936,2023-02-07,CUST936,Male,57,Beauty,4,50,200,Adult
-596,2023-02-07,CUST596,Female,64,Electronics,1,300,300,Senior
-284,2023-02-08,CUST284,Male,43,Clothing,4,50,200,Adult
-977,2023-02-08,CUST977,Female,35,Electronics,3,25,75,Adult
-775,2023-02-08,CUST775,Female,46,Electronics,4,25,100,Adult
-434,2023-02-08,CUST434,Female,43,Electronics,2,25,50,Adult
-649,2023-02-09,CUST649,Female,58,Clothing,2,300,600,Adult
-68,2023-02-10,CUST068,Male,25,Electronics,1,300,300,Young Adult
-192,2023-02-10,CUST192,Male,62,Beauty,2,50,100,Senior
-54,2023-02-10,CUST054,Female,38,Electronics,3,500,1500,Adult
-657,2023-02-11,CUST657,Male,40,Clothing,1,25,25,Adult
-331,2023-02-11,CUST331,Male,28,Electronics,3,30,90,Young Adult
-346,2023-02-11,CUST346,Male,59,Clothing,2,500,1000,Adult
-972,2023-02-11,CUST972,Male,49,Beauty,4,25,100,Adult
-732,2023-02-11,CUST732,Male,61,Electronics,2,500,1000,Senior
-714,2023-02-12,CUST714,Female,18,Clothing,1,500,500,Young Adult
-945,2023-02-13,CUST945,Male,30,Beauty,1,25,25,Young Adult
-577,2023-02-13,CUST577,Male,21,Beauty,4,500,2000,Young Adult
-193,2023-02-13,CUST193,Male,35,Beauty,3,500,1500,Adult
-848,2023-02-13,CUST848,Female,63,Clothing,3,25,75,Senior
-11,2023-02-14,CUST011,Male,23,Clothing,2,50,100,Young Adult
-821,2023-02-14,CUST821,Male,49,Electronics,1,300,300,Adult
-133,2023-02-16,CUST133,Male,20,Electronics,3,300,900,Young Adult
-292,2023-02-17,CUST292,Male,20,Beauty,4,300,1200,Young Adult
-861,2023-02-17,CUST861,Female,41,Clothing,3,30,90,Adult
-16,2023-02-17,CUST016,Male,19,Clothing,3,500,1500,Young Adult
-416,2023-02-17,CUST416,Male,53,Electronics,4,500,2000,Adult
-584,2023-02-17,CUST584,Female,27,Beauty,4,50,200,Young Adult
-42,2023-02-17,CUST042,Male,22,Clothing,3,300,900,Young Adult
-256,2023-02-18,CUST256,Male,23,Clothing,2,500,1000,Young Adult
-44,2023-02-19,CUST044,Female,22,Clothing,1,25,25,Young Adult
-257,2023-02-19,CUST257,Male,19,Beauty,4,500,2000,Young Adult
-966,2023-02-20,CUST966,Male,60,Electronics,2,500,1000,Senior
-268,2023-02-20,CUST268,Female,28,Electronics,1,30,30,Young Adult
-287,2023-02-20,CUST287,Male,54,Clothing,4,25,100,Adult
-900,2023-02-21,CUST900,Male,21,Clothing,2,30,60,Young Adult
-371,2023-02-21,CUST371,Female,20,Beauty,1,25,25,Young Adult
-70,2023-02-21,CUST070,Female,43,Clothing,1,300,300,Adult
-920,2023-02-22,CUST920,Female,28,Beauty,3,25,75,Young Adult
-780,2023-02-22,CUST780,Male,52,Electronics,2,25,50,Adult
-8,2023-02-22,CUST008,Male,30,Electronics,4,25,100,Young Adult
-41,2023-02-22,CUST041,Male,34,Clothing,2,25,50,Young Adult
-454,2023-02-22,CUST454,Female,46,Beauty,1,25,25,Adult
-396,2023-02-23,CUST396,Female,55,Beauty,1,30,30,Adult
-400,2023-02-24,CUST400,Male,53,Clothing,4,50,200,Adult
-611,2023-02-24,CUST611,Male,51,Beauty,3,500,1500,Adult
-800,2023-02-24,CUST800,Male,32,Clothing,4,300,1200,Young Adult
-168,2023-02-24,CUST168,Male,53,Clothing,1,300,300,Adult
-473,2023-02-25,CUST473,Male,64,Beauty,1,50,50,Senior
-506,2023-02-25,CUST506,Male,34,Beauty,3,500,1500,Young Adult
-766,2023-02-25,CUST766,Male,38,Electronics,3,300,900,Adult
-272,2023-02-25,CUST272,Female,61,Electronics,2,50,100,Senior
-135,2023-02-26,CUST135,Male,20,Clothing,2,25,50,Young Adult
-185,2023-02-27,CUST185,Male,24,Clothing,1,25,25,Young Adult
-158,2023-02-27,CUST158,Female,44,Electronics,2,300,600,Adult
-433,2023-02-27,CUST433,Male,29,Beauty,4,50,200,Young Adult
-2,2023-02-27,CUST002,Female,26,Clothing,2,500,1000,Young Adult
-152,2023-02-28,CUST152,Male,43,Electronics,4,500,2000,Adult
-763,2023-02-28,CUST763,Male,34,Clothing,2,25,50,Young Adult
-753,2023-02-28,CUST753,Female,32,Clothing,1,30,30,Young Adult
-932,2023-02-28,CUST932,Female,45,Beauty,4,25,100,Adult
-399,2023-03-01,CUST399,Female,64,Beauty,2,30,60,Senior
-500,2023-03-01,CUST500,Female,60,Beauty,4,25,100,Senior
-514,2023-03-01,CUST514,Female,18,Electronics,1,300,300,Young Adult
-947,2023-03-02,CUST947,Male,50,Beauty,1,300,300,Adult
-888,2023-03-03,CUST888,Female,52,Electronics,4,25,100,Adult
-885,2023-03-03,CUST885,Female,52,Clothing,4,30,120,Adult
-220,2023-03-03,CUST220,Male,64,Beauty,1,500,500,Senior
-339,2023-03-03,CUST339,Female,22,Electronics,2,25,50,Young Adult
-785,2023-03-03,CUST785,Female,31,Beauty,4,50,200,Young Adult
-621,2023-03-04,CUST621,Female,40,Beauty,2,500,1000,Adult
-536,2023-03-05,CUST536,Female,55,Beauty,4,30,120,Adult
-52,2023-03-05,CUST052,Female,36,Beauty,1,300,300,Adult
-917,2023-03-06,CUST917,Female,57,Electronics,4,50,200,Adult
-910,2023-03-06,CUST910,Female,20,Beauty,3,50,150,Young Adult
-197,2023-03-06,CUST197,Female,42,Clothing,4,50,200,Adult
-750,2023-03-06,CUST750,Female,35,Clothing,3,25,75,Adult
-198,2023-03-07,CUST198,Female,54,Beauty,3,300,900,Adult
-547,2023-03-07,CUST547,Male,63,Clothing,4,500,2000,Senior
-705,2023-03-07,CUST705,Male,60,Electronics,2,25,50,Senior
-444,2023-03-07,CUST444,Female,61,Clothing,3,30,90,Senior
-423,2023-03-08,CUST423,Female,27,Clothing,1,25,25,Young Adult
-377,2023-03-09,CUST377,Female,46,Clothing,4,50,200,Adult
-248,2023-03-09,CUST248,Male,26,Clothing,3,300,900,Young Adult
-360,2023-03-09,CUST360,Male,42,Clothing,4,25,100,Adult
-623,2023-03-10,CUST623,Male,34,Clothing,3,50,150,Young Adult
-397,2023-03-10,CUST397,Female,30,Beauty,1,25,25,Young Adult
-717,2023-03-11,CUST717,Male,57,Clothing,1,500,500,Adult
-130,2023-03-12,CUST130,Female,57,Clothing,1,500,500,Adult
-658,2023-03-12,CUST658,Male,59,Clothing,1,25,25,Adult
-119,2023-03-13,CUST119,Female,60,Clothing,3,50,150,Senior
-7,2023-03-13,CUST007,Male,46,Clothing,2,25,50,Adult
-278,2023-03-13,CUST278,Female,37,Clothing,4,25,100,Adult
-117,2023-03-15,CUST117,Male,19,Electronics,2,500,1000,Young Adult
-442,2023-03-17,CUST442,Female,60,Clothing,4,25,100,Senior
-590,2023-03-17,CUST590,Male,36,Clothing,3,300,900,Adult
-607,2023-03-17,CUST607,Male,54,Clothing,3,25,75,Adult
-436,2023-03-18,CUST436,Female,57,Clothing,4,30,120,Adult
-942,2023-03-18,CUST942,Male,51,Clothing,3,500,1500,Adult
-659,2023-03-19,CUST659,Female,39,Electronics,1,30,30,Adult
-941,2023-03-19,CUST941,Female,57,Clothing,2,25,50,Adult
-806,2023-03-20,CUST806,Female,35,Beauty,3,300,900,Adult
-748,2023-03-20,CUST748,Male,25,Clothing,3,50,150,Young Adult
-175,2023-03-20,CUST175,Female,31,Electronics,4,25,100,Young Adult
-663,2023-03-20,CUST663,Male,23,Clothing,4,300,1200,Young Adult
-136,2023-03-20,CUST136,Male,44,Electronics,2,300,600,Adult
-38,2023-03-21,CUST038,Male,38,Beauty,4,50,200,Adult
-459,2023-03-21,CUST459,Male,28,Clothing,4,300,1200,Young Adult
-402,2023-03-21,CUST402,Female,41,Clothing,2,300,600,Adult
-313,2023-03-21,CUST313,Female,55,Beauty,3,500,1500,Adult
-973,2023-03-22,CUST973,Male,60,Clothing,1,50,50,Senior
-328,2023-03-22,CUST328,Male,39,Beauty,2,50,100,Adult
-978,2023-03-22,CUST978,Female,53,Clothing,3,50,150,Adult
-161,2023-03-22,CUST161,Male,64,Beauty,2,500,1000,Senior
-383,2023-03-22,CUST383,Female,46,Beauty,3,30,90,Adult
-138,2023-03-23,CUST138,Male,49,Clothing,4,50,200,Adult
-636,2023-03-23,CUST636,Female,21,Beauty,3,500,1500,Young Adult
-33,2023-03-23,CUST033,Female,50,Electronics,2,50,100,Adult
-471,2023-03-23,CUST471,Male,32,Clothing,3,50,150,Young Adult
-426,2023-03-24,CUST426,Male,23,Electronics,3,50,150,Young Adult
-177,2023-03-24,CUST177,Male,45,Beauty,2,50,100,Adult
-461,2023-03-25,CUST461,Female,18,Beauty,2,500,1000,Young Adult
-76,2023-03-25,CUST076,Female,22,Electronics,2,50,100,Young Adult
-764,2023-03-25,CUST764,Female,40,Clothing,1,25,25,Adult
-91,2023-03-25,CUST091,Female,55,Electronics,1,500,500,Adult
-301,2023-03-26,CUST301,Male,30,Clothing,4,30,120,Young Adult
-703,2023-03-26,CUST703,Male,34,Electronics,2,50,100,Young Adult
-202,2023-03-26,CUST202,Female,34,Clothing,4,300,1200,Young Adult
-760,2023-03-27,CUST760,Male,27,Beauty,1,500,500,Young Adult
-294,2023-03-27,CUST294,Female,23,Clothing,3,30,90,Young Adult
-575,2023-03-28,CUST575,Male,60,Clothing,2,50,100,Senior
-88,2023-03-29,CUST088,Male,56,Clothing,1,500,500,Adult
-975,2023-03-30,CUST975,Female,56,Clothing,4,50,200,Adult
-553,2023-03-31,CUST553,Male,24,Clothing,4,300,1200,Young Adult
-808,2023-04-01,CUST808,Male,33,Beauty,4,500,2000,Young Adult
-614,2023-04-01,CUST614,Female,39,Beauty,4,300,1200,Adult
-462,2023-04-01,CUST462,Male,63,Electronics,4,300,1200,Senior
-502,2023-04-02,CUST502,Male,43,Electronics,3,50,150,Adult
-465,2023-04-02,CUST465,Female,43,Electronics,3,50,150,Adult
-166,2023-04-02,CUST166,Male,34,Clothing,4,500,2000,Young Adult
-905,2023-04-02,CUST905,Male,58,Beauty,1,300,300,Adult
-280,2023-04-04,CUST280,Female,37,Clothing,3,500,1500,Adult
-834,2023-04-04,CUST834,Female,56,Beauty,2,30,60,Adult
-719,2023-04-04,CUST719,Female,42,Clothing,2,30,60,Adult
-891,2023-04-05,CUST891,Male,41,Electronics,3,300,900,Adult
-928,2023-04-05,CUST928,Female,35,Clothing,4,300,1200,Adult
-332,2023-04-06,CUST332,Male,58,Electronics,4,300,1200,Adult
-255,2023-04-08,CUST255,Male,48,Clothing,1,30,30,Adult
-275,2023-04-08,CUST275,Male,43,Clothing,2,500,1000,Adult
-517,2023-04-08,CUST517,Female,47,Clothing,4,25,100,Adult
-314,2023-04-08,CUST314,Male,52,Clothing,4,30,120,Adult
-847,2023-04-08,CUST847,Female,18,Electronics,4,300,1200,Young Adult
-61,2023-04-09,CUST061,Male,21,Beauty,4,50,200,Young Adult
-886,2023-04-09,CUST886,Male,37,Electronics,3,300,900,Adult
-548,2023-04-09,CUST548,Female,51,Clothing,2,30,60,Adult
-892,2023-04-09,CUST892,Male,20,Electronics,1,50,50,Young Adult
-274,2023-04-09,CUST274,Female,23,Clothing,2,500,1000,Young Adult
-486,2023-04-09,CUST486,Female,35,Electronics,1,25,25,Adult
-601,2023-04-10,CUST601,Male,19,Clothing,1,30,30,Young Adult
-901,2023-04-10,CUST901,Male,31,Electronics,1,30,30,Young Adult
-527,2023-04-11,CUST527,Male,57,Clothing,2,25,50,Adult
-774,2023-04-12,CUST774,Female,40,Clothing,2,25,50,Adult
-589,2023-04-12,CUST589,Female,36,Beauty,2,500,1000,Adult
-1000,2023-04-12,CUST1000,Male,47,Electronics,4,30,120,Adult
-23,2023-04-12,CUST023,Female,35,Clothing,4,30,120,Adult
-174,2023-04-12,CUST174,Female,39,Beauty,1,300,300,Adult
-210,2023-04-13,CUST210,Male,37,Electronics,4,50,200,Adult
-745,2023-04-13,CUST745,Male,54,Beauty,2,50,100,Adult
-478,2023-04-13,CUST478,Female,58,Clothing,2,30,60,Adult
-354,2023-04-15,CUST354,Female,49,Beauty,4,50,200,Adult
-408,2023-04-15,CUST408,Female,64,Beauty,1,500,500,Senior
-674,2023-04-16,CUST674,Female,38,Clothing,1,300,300,Adult
-967,2023-04-17,CUST967,Male,62,Beauty,1,25,25,Senior
-450,2023-04-18,CUST450,Female,59,Beauty,2,25,50,Adult
-79,2023-04-18,CUST079,Male,34,Beauty,1,300,300,Young Adult
-562,2023-04-18,CUST562,Male,54,Electronics,2,25,50,Adult
-406,2023-04-18,CUST406,Female,22,Beauty,4,25,100,Young Adult
-836,2023-04-19,CUST836,Female,22,Clothing,1,50,50,Young Adult
-969,2023-04-19,CUST969,Female,40,Clothing,3,300,900,Adult
-111,2023-04-19,CUST111,Female,34,Electronics,3,500,1500,Young Adult
-207,2023-04-19,CUST207,Female,42,Beauty,2,25,50,Adult
-108,2023-04-19,CUST108,Female,27,Beauty,3,25,75,Young Adult
-724,2023-04-19,CUST724,Male,61,Clothing,3,50,150,Senior
-246,2023-04-20,CUST246,Female,48,Electronics,2,25,50,Adult
-572,2023-04-20,CUST572,Male,31,Clothing,4,500,2000,Young Adult
-665,2023-04-20,CUST665,Male,57,Clothing,1,50,50,Adult
-298,2023-04-20,CUST298,Male,27,Beauty,4,300,1200,Young Adult
-374,2023-04-20,CUST374,Female,59,Beauty,3,25,75,Adult
-39,2023-04-21,CUST039,Male,23,Clothing,4,30,120,Young Adult
-893,2023-04-21,CUST893,Male,49,Electronics,1,50,50,Adult
-316,2023-04-22,CUST316,Female,48,Clothing,2,25,50,Adult
-17,2023-04-22,CUST017,Female,27,Clothing,4,25,100,Young Adult
-755,2023-04-22,CUST755,Female,58,Clothing,3,25,75,Adult
-129,2023-04-23,CUST129,Female,21,Beauty,2,300,600,Young Adult
-98,2023-04-23,CUST098,Female,55,Beauty,2,50,100,Adult
-230,2023-04-23,CUST230,Male,54,Beauty,1,25,25,Adult
-28,2023-04-23,CUST028,Female,43,Beauty,1,500,500,Adult
-613,2023-04-23,CUST613,Female,52,Clothing,3,30,90,Adult
-693,2023-04-23,CUST693,Male,41,Beauty,3,500,1500,Adult
-691,2023-04-23,CUST691,Female,51,Clothing,3,30,90,Adult
-477,2023-04-24,CUST477,Male,43,Clothing,4,30,120,Adult
-863,2023-04-24,CUST863,Female,30,Electronics,2,25,50,Young Adult
-738,2023-04-25,CUST738,Male,41,Clothing,2,50,100,Adult
-483,2023-04-25,CUST483,Male,55,Clothing,1,30,30,Adult
-6,2023-04-25,CUST006,Female,45,Beauty,1,30,30,Adult
-222,2023-04-26,CUST222,Male,51,Clothing,4,30,120,Adult
-953,2023-04-26,CUST953,Male,45,Beauty,3,30,90,Adult
-588,2023-04-26,CUST588,Male,38,Electronics,2,30,60,Adult
-903,2023-04-27,CUST903,Female,51,Beauty,4,50,200,Adult
-66,2023-04-27,CUST066,Female,45,Electronics,1,30,30,Adult
-482,2023-04-27,CUST482,Female,28,Clothing,4,300,1200,Young Adult
-102,2023-04-28,CUST102,Female,47,Beauty,2,25,50,Adult
-228,2023-04-28,CUST228,Female,59,Electronics,2,30,60,Adult
-236,2023-04-28,CUST236,Female,54,Clothing,1,25,25,Adult
-987,2023-04-29,CUST987,Female,30,Clothing,3,300,900,Young Adult
-660,2023-04-29,CUST660,Female,38,Beauty,2,500,1000,Adult
-884,2023-04-29,CUST884,Female,26,Clothing,2,30,60,Young Adult
-69,2023-04-30,CUST069,Female,56,Beauty,3,25,75,Adult
-995,2023-04-30,CUST995,Female,41,Clothing,1,30,30,Adult
-18,2023-04-30,CUST018,Female,47,Electronics,2,25,50,Adult
-652,2023-05-01,CUST652,Female,34,Beauty,2,50,100,Young Adult
-337,2023-05-01,CUST337,Male,38,Clothing,1,500,500,Adult
-585,2023-05-01,CUST585,Female,24,Clothing,1,25,25,Young Adult
-293,2023-05-02,CUST293,Male,50,Electronics,3,30,90,Adult
-242,2023-05-02,CUST242,Male,21,Clothing,1,25,25,Young Adult
-460,2023-05-02,CUST460,Male,40,Beauty,1,50,50,Adult
-646,2023-05-03,CUST646,Male,38,Clothing,3,30,90,Adult
-188,2023-05-03,CUST188,Male,40,Clothing,3,25,75,Adult
-357,2023-05-03,CUST357,Female,40,Electronics,3,25,75,Adult
-974,2023-05-03,CUST974,Male,47,Beauty,1,30,30,Adult
-749,2023-05-03,CUST749,Male,42,Beauty,1,30,30,Adult
-190,2023-05-04,CUST190,Female,60,Beauty,3,30,90,Senior
-849,2023-05-04,CUST849,Male,32,Clothing,2,25,50,Young Adult
-853,2023-05-04,CUST853,Male,21,Beauty,2,500,1000,Young Adult
-824,2023-05-05,CUST824,Male,63,Clothing,4,30,120,Senior
-606,2023-05-05,CUST606,Male,22,Electronics,1,50,50,Young Adult
-779,2023-05-05,CUST779,Female,56,Electronics,2,500,1000,Adult
-252,2023-05-05,CUST252,Male,54,Electronics,1,300,300,Adult
-866,2023-05-05,CUST866,Male,24,Electronics,1,50,50,Young Adult
-5,2023-05-06,CUST005,Male,30,Beauty,2,50,100,Young Adult
-820,2023-05-06,CUST820,Male,49,Electronics,4,50,200,Adult
-593,2023-05-06,CUST593,Male,35,Electronics,2,30,60,Adult
-380,2023-05-06,CUST380,Male,56,Electronics,2,300,600,Adult
-90,2023-05-06,CUST090,Female,51,Electronics,1,30,30,Adult
-120,2023-05-07,CUST120,Male,60,Beauty,1,50,50,Senior
-221,2023-05-07,CUST221,Male,39,Beauty,2,300,600,Adult
-341,2023-05-07,CUST341,Male,31,Clothing,4,50,200,Young Adult
-640,2023-05-07,CUST640,Female,51,Electronics,4,30,120,Adult
-744,2023-05-07,CUST744,Male,40,Electronics,1,25,25,Adult
-469,2023-05-08,CUST469,Male,18,Beauty,3,25,75,Young Adult
-283,2023-05-08,CUST283,Female,18,Electronics,1,500,500,Young Adult
-273,2023-05-08,CUST273,Female,22,Beauty,1,50,50,Young Adult
-620,2023-05-08,CUST620,Male,63,Electronics,3,25,75,Senior
-452,2023-05-08,CUST452,Female,48,Clothing,3,500,1500,Adult
-946,2023-05-08,CUST946,Male,62,Electronics,4,500,2000,Senior
-883,2023-05-09,CUST883,Male,40,Electronics,1,500,500,Adult
-414,2023-05-09,CUST414,Male,48,Beauty,4,25,100,Adult
-148,2023-05-09,CUST148,Male,18,Clothing,2,30,60,Young Adult
-930,2023-05-10,CUST930,Male,54,Clothing,4,50,200,Adult
-731,2023-05-10,CUST731,Male,54,Clothing,4,500,2000,Adult
-518,2023-05-11,CUST518,Female,40,Clothing,1,30,30,Adult
-758,2023-05-12,CUST758,Male,64,Clothing,4,25,100,Senior
-639,2023-05-13,CUST639,Female,62,Beauty,4,50,200,Senior
-838,2023-05-13,CUST838,Male,47,Electronics,2,300,600,Adult
-501,2023-05-14,CUST501,Male,39,Electronics,2,30,60,Adult
-721,2023-05-14,CUST721,Female,52,Clothing,1,500,500,Adult
-353,2023-05-14,CUST353,Male,31,Electronics,1,500,500,Young Adult
-123,2023-05-15,CUST123,Female,40,Electronics,2,30,60,Adult
-425,2023-05-15,CUST425,Female,55,Electronics,4,30,120,Adult
-164,2023-05-15,CUST164,Female,47,Beauty,3,500,1500,Adult
-398,2023-05-16,CUST398,Female,48,Clothing,2,300,600,Adult
-305,2023-05-16,CUST305,Female,18,Beauty,1,30,30,Young Adult
-358,2023-05-16,CUST358,Female,32,Beauty,1,300,300,Young Adult
-48,2023-05-16,CUST048,Male,54,Electronics,3,300,900,Adult
-376,2023-05-16,CUST376,Female,64,Beauty,1,30,30,Senior
-996,2023-05-16,CUST996,Male,62,Clothing,1,50,50,Senior
-118,2023-05-16,CUST118,Female,30,Electronics,4,500,2000,Young Adult
-970,2023-05-16,CUST970,Male,59,Electronics,4,500,2000,Adult
-203,2023-05-16,CUST203,Male,56,Clothing,2,500,1000,Adult
-504,2023-05-16,CUST504,Female,38,Beauty,3,50,150,Adult
-411,2023-05-16,CUST411,Male,62,Electronics,4,50,200,Senior
-155,2023-05-17,CUST155,Male,31,Electronics,4,500,2000,Young Adult
-81,2023-05-17,CUST081,Male,40,Electronics,1,50,50,Adult
-470,2023-05-17,CUST470,Female,57,Clothing,2,500,1000,Adult
-818,2023-05-18,CUST818,Male,30,Electronics,1,500,500,Young Adult
-106,2023-05-18,CUST106,Female,46,Clothing,1,50,50,Adult
-811,2023-05-19,CUST811,Male,61,Beauty,2,25,50,Senior
-94,2023-05-19,CUST094,Female,47,Beauty,2,500,1000,Adult
-881,2023-05-19,CUST881,Male,22,Electronics,1,300,300,Young Adult
-694,2023-05-20,CUST694,Female,39,Electronics,2,25,50,Adult
-653,2023-05-20,CUST653,Male,54,Clothing,3,25,75,Adult
-403,2023-05-20,CUST403,Male,32,Clothing,2,300,600,Young Adult
-911,2023-05-21,CUST911,Male,42,Electronics,3,300,900,Adult
-647,2023-05-21,CUST647,Male,59,Clothing,3,500,1500,Adult
-4,2023-05-21,CUST004,Male,37,Clothing,1,500,500,Adult
-843,2023-05-22,CUST843,Male,21,Beauty,3,500,1500,Young Adult
-895,2023-05-22,CUST895,Female,55,Clothing,4,30,120,Adult
-419,2023-05-22,CUST419,Female,44,Clothing,3,30,90,Adult
-642,2023-05-22,CUST642,Female,54,Clothing,4,25,100,Adult
-72,2023-05-23,CUST072,Female,20,Electronics,4,500,2000,Young Adult
-243,2023-05-23,CUST243,Female,47,Electronics,3,300,900,Adult
-822,2023-05-23,CUST822,Female,52,Beauty,3,50,150,Adult
-281,2023-05-23,CUST281,Female,29,Beauty,4,500,2000,Young Adult
-31,2023-05-23,CUST031,Male,44,Electronics,4,300,1200,Adult
-489,2023-05-23,CUST489,Male,44,Electronics,1,30,30,Adult
-729,2023-05-23,CUST729,Male,29,Clothing,4,300,1200,Young Adult
-37,2023-05-23,CUST037,Female,18,Beauty,3,25,75,Young Adult
-491,2023-05-23,CUST491,Female,60,Electronics,3,300,900,Senior
-840,2023-05-24,CUST840,Male,62,Clothing,2,25,50,Senior
-990,2023-05-25,CUST990,Female,58,Beauty,2,500,1000,Adult
-404,2023-05-25,CUST404,Male,46,Electronics,2,500,1000,Adult
-899,2023-05-25,CUST899,Male,26,Clothing,2,300,600,Young Adult
-923,2023-05-26,CUST923,Male,32,Beauty,3,300,900,Young Adult
-382,2023-05-26,CUST382,Female,53,Clothing,2,500,1000,Adult
-578,2023-05-26,CUST578,Female,54,Clothing,4,30,120,Adult
-561,2023-05-27,CUST561,Female,64,Clothing,4,500,2000,Senior
-651,2023-05-27,CUST651,Male,51,Clothing,3,50,150,Adult
-307,2023-05-27,CUST307,Female,26,Electronics,2,25,50,Young Adult
-988,2023-05-28,CUST988,Female,63,Clothing,3,25,75,Senior
-67,2023-05-29,CUST067,Female,48,Beauty,4,300,1200,Adult
-985,2023-05-30,CUST985,Female,19,Electronics,2,25,50,Young Adult
-915,2023-05-30,CUST915,Female,26,Beauty,3,30,90,Young Adult
-159,2023-05-31,CUST159,Male,26,Clothing,4,50,200,Young Adult
-56,2023-05-31,CUST056,Female,26,Clothing,3,300,900,Young Adult
-862,2023-05-31,CUST862,Male,28,Electronics,4,300,1200,Young Adult
-545,2023-06-01,CUST545,Male,27,Clothing,2,25,50,Young Adult
-902,2023-06-01,CUST902,Female,54,Beauty,1,50,50,Adult
-315,2023-06-01,CUST315,Male,47,Clothing,2,30,60,Adult
-958,2023-06-02,CUST958,Male,62,Electronics,2,25,50,Senior
-170,2023-06-02,CUST170,Female,25,Clothing,2,25,50,Young Adult
-685,2023-06-02,CUST685,Male,57,Electronics,2,25,50,Adult
-363,2023-06-03,CUST363,Male,64,Beauty,1,25,25,Senior
-537,2023-06-03,CUST537,Female,21,Beauty,1,500,500,Young Adult
-394,2023-06-03,CUST394,Female,27,Clothing,1,500,500,Young Adult
-387,2023-06-04,CUST387,Male,44,Beauty,1,30,30,Adult
-556,2023-06-04,CUST556,Female,18,Electronics,1,50,50,Young Adult
-782,2023-06-04,CUST782,Male,59,Clothing,3,300,900,Adult
-906,2023-06-04,CUST906,Female,20,Clothing,1,50,50,Young Adult
-944,2023-06-05,CUST944,Male,44,Clothing,2,25,50,Adult
-560,2023-06-05,CUST560,Female,25,Electronics,1,50,50,Young Adult
-961,2023-06-06,CUST961,Male,53,Beauty,4,50,200,Adult
-867,2023-06-06,CUST867,Male,21,Electronics,1,500,500,Young Adult
-481,2023-06-06,CUST481,Female,43,Electronics,4,300,1200,Adult
-882,2023-06-06,CUST882,Female,64,Electronics,2,25,50,Senior
-446,2023-06-07,CUST446,Male,21,Electronics,1,50,50,Young Adult
-187,2023-06-07,CUST187,Female,64,Clothing,2,50,100,Senior
-539,2023-06-08,CUST539,Male,25,Beauty,1,500,500,Young Adult
-587,2023-06-08,CUST587,Female,40,Beauty,4,300,1200,Adult
-769,2023-06-09,CUST769,Female,31,Electronics,4,30,120,Young Adult
-765,2023-06-09,CUST765,Male,43,Clothing,4,50,200,Adult
-212,2023-06-09,CUST212,Male,21,Clothing,3,500,1500,Young Adult
-510,2023-06-10,CUST510,Female,39,Beauty,4,50,200,Adult
-356,2023-06-10,CUST356,Male,50,Electronics,3,500,1500,Adult
-321,2023-06-10,CUST321,Female,26,Electronics,2,25,50,Young Adult
-534,2023-06-10,CUST534,Male,45,Clothing,2,500,1000,Adult
-352,2023-06-11,CUST352,Male,57,Electronics,2,500,1000,Adult
-365,2023-06-11,CUST365,Male,31,Clothing,1,300,300,Young Adult
-110,2023-06-11,CUST110,Male,27,Clothing,3,300,900,Young Adult
-887,2023-06-11,CUST887,Male,59,Clothing,4,25,100,Adult
-104,2023-06-11,CUST104,Female,34,Beauty,2,500,1000,Young Adult
-629,2023-06-12,CUST629,Male,62,Electronics,2,25,50,Senior
-655,2023-06-13,CUST655,Female,55,Clothing,1,500,500,Adult
-567,2023-06-14,CUST567,Female,25,Clothing,3,300,900,Young Adult
-182,2023-06-15,CUST182,Male,62,Beauty,4,30,120,Senior
-819,2023-06-15,CUST819,Female,35,Beauty,2,50,100,Adult
-833,2023-06-16,CUST833,Male,42,Beauty,4,50,200,Adult
-100,2023-06-16,CUST100,Male,41,Electronics,1,30,30,Adult
-723,2023-06-17,CUST723,Female,54,Beauty,4,50,200,Adult
-542,2023-06-17,CUST542,Female,20,Beauty,1,50,50,Young Adult
-726,2023-06-17,CUST726,Male,47,Clothing,4,300,1200,Adult
-488,2023-06-18,CUST488,Female,51,Electronics,3,300,900,Adult
-532,2023-06-19,CUST532,Female,64,Clothing,4,30,120,Senior
-669,2023-06-19,CUST669,Male,24,Beauty,4,300,1200,Young Adult
-877,2023-06-19,CUST877,Female,58,Clothing,1,25,25,Adult
-239,2023-06-19,CUST239,Male,38,Electronics,3,500,1500,Adult
-498,2023-06-19,CUST498,Female,50,Clothing,4,25,100,Adult
-422,2023-06-20,CUST422,Female,28,Clothing,3,30,90,Young Adult
-466,2023-06-20,CUST466,Male,63,Electronics,4,25,100,Senior
-583,2023-06-21,CUST583,Female,24,Electronics,4,25,100,Young Adult
-654,2023-06-21,CUST654,Male,42,Clothing,3,25,75,Adult
-727,2023-06-22,CUST727,Male,55,Beauty,3,300,900,Adult
-830,2023-06-22,CUST830,Female,64,Clothing,3,50,150,Senior
-40,2023-06-22,CUST040,Male,45,Beauty,1,50,50,Adult
-699,2023-06-22,CUST699,Female,37,Clothing,4,30,120,Adult
-271,2023-06-23,CUST271,Female,62,Beauty,4,30,120,Senior
-224,2023-06-23,CUST224,Female,25,Clothing,1,50,50,Young Adult
-36,2023-06-24,CUST036,Male,52,Beauty,3,300,900,Adult
-157,2023-06-24,CUST157,Male,62,Electronics,4,500,2000,Senior
-839,2023-06-24,CUST839,Female,20,Electronics,4,300,1200,Young Adult
-796,2023-06-24,CUST796,Male,43,Beauty,4,30,120,Adult
-927,2023-06-24,CUST927,Male,43,Electronics,4,500,2000,Adult
-407,2023-06-25,CUST407,Female,46,Electronics,3,300,900,Adult
-874,2023-06-26,CUST874,Male,60,Beauty,1,30,30,Senior
-46,2023-06-26,CUST046,Female,20,Electronics,4,300,1200,Young Adult
-509,2023-06-26,CUST509,Female,37,Electronics,3,300,900,Adult
-788,2023-06-27,CUST788,Female,52,Beauty,3,300,900,Adult
-378,2023-06-28,CUST378,Male,50,Beauty,1,300,300,Adult
-737,2023-06-29,CUST737,Female,33,Clothing,1,50,50,Young Adult
-480,2023-06-29,CUST480,Female,42,Beauty,4,500,2000,Adult
-492,2023-06-29,CUST492,Male,61,Beauty,4,25,100,Senior
-878,2023-06-30,CUST878,Female,20,Clothing,1,30,30,Young Adult
-684,2023-06-30,CUST684,Female,28,Clothing,2,500,1000,Young Adult
-837,2023-07-01,CUST837,Male,18,Beauty,3,30,90,Young Adult
-260,2023-07-01,CUST260,Male,28,Beauty,2,30,60,Young Adult
-455,2023-07-01,CUST455,Male,31,Electronics,4,25,100,Young Adult
-78,2023-07-01,CUST078,Female,47,Clothing,3,500,1500,Adult
-45,2023-07-03,CUST045,Female,55,Electronics,1,30,30,Adult
-449,2023-07-03,CUST449,Male,25,Electronics,4,50,200,Young Adult
-904,2023-07-04,CUST904,Male,28,Clothing,1,500,500,Young Adult
-59,2023-07-05,CUST059,Male,62,Clothing,1,50,50,Senior
-186,2023-07-05,CUST186,Male,20,Clothing,4,50,200,Young Adult
-802,2023-07-05,CUST802,Female,46,Beauty,1,30,30,Adult
-128,2023-07-05,CUST128,Male,25,Beauty,1,500,500,Young Adult
-75,2023-07-06,CUST075,Male,61,Beauty,4,50,200,Senior
-528,2023-07-06,CUST528,Female,36,Clothing,2,30,60,Adult
-447,2023-07-06,CUST447,Male,22,Beauty,4,500,2000,Young Adult
-759,2023-07-08,CUST759,Male,49,Electronics,2,50,100,Adult
-870,2023-07-08,CUST870,Female,46,Electronics,4,30,120,Adult
-77,2023-07-09,CUST077,Female,47,Clothing,2,50,100,Adult
-792,2023-07-09,CUST792,Female,20,Beauty,1,50,50,Young Adult
-381,2023-07-09,CUST381,Female,44,Clothing,4,25,100,Adult
-439,2023-07-09,CUST439,Male,50,Clothing,3,25,75,Adult
-176,2023-07-11,CUST176,Female,43,Beauty,2,50,100,Adult
-216,2023-07-11,CUST216,Male,62,Electronics,2,50,100,Senior
-772,2023-07-12,CUST772,Male,26,Electronics,1,30,30,Young Adult
-53,2023-07-13,CUST053,Male,34,Electronics,2,50,100,Young Adult
-71,2023-07-14,CUST071,Female,51,Beauty,4,25,100,Adult
-681,2023-07-14,CUST681,Female,43,Electronics,2,30,60,Adult
-551,2023-07-14,CUST551,Male,45,Electronics,3,300,900,Adult
-302,2023-07-14,CUST302,Male,57,Beauty,2,300,600,Adult
-93,2023-07-14,CUST093,Female,35,Beauty,4,500,2000,Adult
-43,2023-07-14,CUST043,Female,48,Clothing,1,300,300,Adult
-829,2023-07-14,CUST829,Male,61,Beauty,3,30,90,Senior
-722,2023-07-14,CUST722,Male,20,Beauty,3,300,900,Young Adult
-728,2023-07-14,CUST728,Male,51,Electronics,3,50,150,Adult
-955,2023-07-14,CUST955,Male,58,Clothing,1,25,25,Adult
-474,2023-07-15,CUST474,Female,26,Clothing,3,500,1500,Young Adult
-144,2023-07-15,CUST144,Female,59,Beauty,3,500,1500,Adult
-603,2023-07-16,CUST603,Female,40,Clothing,3,30,90,Adult
-661,2023-07-16,CUST661,Female,44,Clothing,4,25,100,Adult
-143,2023-07-17,CUST143,Female,45,Clothing,1,50,50,Adult
-515,2023-07-17,CUST515,Female,49,Clothing,3,300,900,Adult
-686,2023-07-19,CUST686,Female,28,Electronics,4,50,200,Young Adult
-304,2023-07-19,CUST304,Female,37,Electronics,2,30,60,Adult
-676,2023-07-19,CUST676,Male,63,Electronics,3,500,1500,Senior
-698,2023-07-19,CUST698,Female,64,Electronics,1,300,300,Senior
-709,2023-07-21,CUST709,Female,19,Electronics,2,500,1000,Young Adult
-114,2023-07-22,CUST114,Female,22,Beauty,4,25,100,Young Adult
-359,2023-07-22,CUST359,Male,50,Clothing,1,50,50,Adult
-773,2023-07-23,CUST773,Male,25,Electronics,4,500,2000,Young Adult
-495,2023-07-24,CUST495,Male,24,Beauty,2,30,60,Young Adult
-487,2023-07-24,CUST487,Male,44,Clothing,4,500,2000,Adult
-213,2023-07-24,CUST213,Male,27,Beauty,3,500,1500,Young Adult
-605,2023-07-24,CUST605,Male,37,Electronics,2,500,1000,Adult
-127,2023-07-24,CUST127,Female,33,Clothing,2,25,50,Young Adult
-299,2023-07-25,CUST299,Male,61,Electronics,2,500,1000,Senior
-934,2023-07-25,CUST934,Male,30,Beauty,1,500,500,Young Adult
-105,2023-07-25,CUST105,Female,22,Electronics,1,500,500,Young Adult
-270,2023-07-26,CUST270,Male,43,Electronics,1,300,300,Adult
-338,2023-07-26,CUST338,Male,54,Beauty,2,50,100,Adult
-543,2023-07-26,CUST543,Male,49,Beauty,2,300,600,Adult
-557,2023-07-27,CUST557,Female,20,Beauty,3,30,90,Young Adult
-864,2023-07-27,CUST864,Female,51,Electronics,1,500,500,Adult
-702,2023-07-27,CUST702,Female,60,Clothing,2,300,600,Senior
-668,2023-07-28,CUST668,Female,62,Electronics,3,50,150,Senior
-850,2023-07-28,CUST850,Female,26,Beauty,2,500,1000,Young Adult
-457,2023-07-28,CUST457,Female,58,Beauty,3,300,900,Adult
-254,2023-07-28,CUST254,Male,41,Electronics,1,500,500,Adult
-295,2023-07-28,CUST295,Female,27,Beauty,3,300,900,Young Adult
-980,2023-07-29,CUST980,Female,31,Electronics,3,25,75,Young Adult
-541,2023-07-29,CUST541,Male,56,Beauty,1,500,500,Adult
-467,2023-07-30,CUST467,Female,53,Electronics,3,50,150,Adult
-262,2023-07-30,CUST262,Female,32,Beauty,4,30,120,Young Adult
-463,2023-07-31,CUST463,Female,54,Beauty,3,500,1500,Adult
-598,2023-08-01,CUST598,Male,37,Beauty,4,30,120,Adult
-672,2023-08-01,CUST672,Female,34,Beauty,2,50,100,Young Adult
-667,2023-08-01,CUST667,Female,29,Electronics,1,500,500,Young Adult
-949,2023-08-02,CUST949,Female,41,Electronics,2,25,50,Adult
-687,2023-08-03,CUST687,Female,53,Electronics,1,300,300,Adult
-27,2023-08-03,CUST027,Female,38,Beauty,2,25,50,Adult
-347,2023-08-03,CUST347,Male,42,Electronics,1,25,25,Adult
-730,2023-08-04,CUST730,Female,36,Clothing,2,25,50,Adult
-798,2023-08-04,CUST798,Male,61,Clothing,1,50,50,Senior
-675,2023-08-04,CUST675,Female,45,Clothing,2,30,60,Adult
-549,2023-08-04,CUST549,Female,50,Beauty,2,50,100,Adult
-206,2023-08-05,CUST206,Male,61,Clothing,1,25,25,Senior
-35,2023-08-05,CUST035,Female,58,Beauty,3,300,900,Adult
-279,2023-08-05,CUST279,Male,50,Clothing,1,500,500,Adult
-140,2023-08-05,CUST140,Male,38,Electronics,1,30,30,Adult
-261,2023-08-05,CUST261,Male,21,Clothing,2,25,50,Young Adult
-308,2023-08-05,CUST308,Female,34,Beauty,4,300,1200,Young Adult
-13,2023-08-05,CUST013,Male,22,Electronics,3,500,1500,Young Adult
-418,2023-08-05,CUST418,Female,60,Electronics,2,500,1000,Senior
-875,2023-08-06,CUST875,Female,51,Electronics,4,500,2000,Adult
-612,2023-08-06,CUST612,Female,61,Electronics,1,500,500,Senior
-430,2023-08-07,CUST430,Female,43,Electronics,3,300,900,Adult
-633,2023-08-07,CUST633,Male,39,Beauty,4,30,120,Adult
-790,2023-08-08,CUST790,Male,62,Clothing,1,25,25,Senior
-716,2023-08-08,CUST716,Female,60,Clothing,4,300,1200,Senior
-960,2023-08-08,CUST960,Male,59,Clothing,2,30,60,Adult
-125,2023-08-08,CUST125,Male,48,Clothing,2,50,100,Adult
-259,2023-08-09,CUST259,Female,45,Clothing,4,50,200,Adult
-443,2023-08-09,CUST443,Male,29,Clothing,2,300,600,Young Adult
-563,2023-08-09,CUST563,Male,20,Clothing,2,30,60,Young Adult
-529,2023-08-09,CUST529,Female,35,Clothing,3,50,150,Adult
-801,2023-08-10,CUST801,Male,21,Clothing,4,50,200,Young Adult
-160,2023-08-11,CUST160,Female,43,Clothing,2,50,100,Adult
-508,2023-08-11,CUST508,Male,58,Beauty,2,300,600,Adult
-807,2023-08-11,CUST807,Female,50,Electronics,4,50,200,Adult
-511,2023-08-12,CUST511,Male,45,Beauty,2,50,100,Adult
-816,2023-08-12,CUST816,Male,47,Beauty,2,500,1000,Adult
-695,2023-08-12,CUST695,Female,22,Electronics,3,50,150,Young Adult
-521,2023-08-12,CUST521,Female,47,Clothing,4,30,120,Adult
-217,2023-08-13,CUST217,Female,35,Electronics,4,50,200,Adult
-384,2023-08-13,CUST384,Male,55,Clothing,1,500,500,Adult
-926,2023-08-14,CUST926,Male,22,Electronics,1,30,30,Young Adult
-648,2023-08-14,CUST648,Male,53,Beauty,4,300,1200,Adult
-630,2023-08-15,CUST630,Male,42,Clothing,2,50,100,Adult
-427,2023-08-15,CUST427,Male,25,Electronics,1,25,25,Young Adult
-957,2023-08-15,CUST957,Female,60,Electronics,4,30,120,Senior
-570,2023-08-15,CUST570,Male,49,Clothing,1,500,500,Adult
-569,2023-08-15,CUST569,Male,52,Electronics,4,50,200,Adult
-285,2023-08-15,CUST285,Female,31,Electronics,1,25,25,Young Adult
-635,2023-08-17,CUST635,Female,63,Electronics,3,300,900,Senior
-277,2023-08-18,CUST277,Male,36,Clothing,4,25,100,Adult
-29,2023-08-18,CUST029,Female,42,Electronics,1,30,30,Adult
-859,2023-08-18,CUST859,Female,56,Electronics,3,500,1500,Adult
-956,2023-08-19,CUST956,Male,30,Clothing,3,500,1500,Young Adult
-823,2023-08-19,CUST823,Female,56,Electronics,2,50,100,Adult
-981,2023-08-19,CUST981,Female,30,Electronics,2,30,60,Young Adult
-638,2023-08-19,CUST638,Male,46,Electronics,1,500,500,Adult
-219,2023-08-20,CUST219,Female,53,Electronics,3,30,90,Adult
-725,2023-08-21,CUST725,Male,61,Electronics,1,300,300,Senior
-992,2023-08-21,CUST992,Female,57,Electronics,2,30,60,Adult
-306,2023-08-21,CUST306,Male,54,Electronics,1,50,50,Adult
-880,2023-08-21,CUST880,Male,22,Beauty,2,500,1000,Young Adult
-162,2023-08-21,CUST162,Male,39,Clothing,2,30,60,Adult
-73,2023-08-21,CUST073,Male,29,Electronics,3,30,90,Young Adult
-597,2023-08-22,CUST597,Male,22,Beauty,4,300,1200,Young Adult
-622,2023-08-22,CUST622,Female,49,Beauty,3,25,75,Adult
-364,2023-08-23,CUST364,Female,19,Beauty,1,500,500,Young Adult
-116,2023-08-23,CUST116,Female,23,Clothing,1,30,30,Young Adult
-368,2023-08-23,CUST368,Female,56,Clothing,4,300,1200,Adult
-479,2023-08-24,CUST479,Male,52,Electronics,4,300,1200,Adult
-804,2023-08-24,CUST804,Male,42,Electronics,1,30,30,Adult
-50,2023-08-24,CUST050,Female,27,Beauty,3,25,75,Young Adult
-718,2023-08-25,CUST718,Female,59,Beauty,3,25,75,Adult
-282,2023-08-25,CUST282,Female,64,Electronics,4,50,200,Senior
-92,2023-08-25,CUST092,Female,51,Electronics,4,30,120,Adult
-624,2023-08-26,CUST624,Female,34,Beauty,3,300,900,Young Adult
-825,2023-08-26,CUST825,Female,46,Beauty,1,25,25,Adult
-617,2023-08-26,CUST617,Male,34,Electronics,1,30,30,Young Adult
-671,2023-08-27,CUST671,Male,62,Electronics,3,50,150,Senior
-756,2023-08-27,CUST756,Female,62,Electronics,4,300,1200,Senior
-568,2023-08-27,CUST568,Female,51,Electronics,1,300,300,Adult
-815,2023-08-27,CUST815,Female,51,Clothing,3,25,75,Adult
-704,2023-08-28,CUST704,Female,62,Clothing,3,30,90,Senior
-146,2023-08-28,CUST146,Male,38,Clothing,4,50,200,Adult
-263,2023-08-28,CUST263,Male,23,Beauty,2,30,60,Young Adult
-733,2023-08-29,CUST733,Male,34,Beauty,1,30,30,Young Adult
-476,2023-08-29,CUST476,Female,27,Clothing,4,500,2000,Young Adult
-924,2023-08-29,CUST924,Male,55,Beauty,2,50,100,Adult
-984,2023-08-29,CUST984,Male,56,Clothing,1,500,500,Adult
-574,2023-08-31,CUST574,Female,63,Electronics,2,25,50,Senior
-251,2023-08-31,CUST251,Female,57,Beauty,4,50,200,Adult
-253,2023-08-31,CUST253,Female,53,Clothing,4,500,2000,Adult
-871,2023-08-31,CUST871,Male,62,Beauty,2,30,60,Senior
-751,2023-08-31,CUST751,Female,42,Clothing,2,25,50,Adult
-594,2023-09-01,CUST594,Female,19,Electronics,2,300,600,Young Adult
-637,2023-09-01,CUST637,Male,43,Clothing,2,300,600,Adult
-200,2023-09-01,CUST200,Male,27,Beauty,3,50,150,Young Adult
-855,2023-09-01,CUST855,Male,54,Beauty,1,25,25,Adult
-931,2023-09-02,CUST931,Male,30,Beauty,4,30,120,Young Adult
-325,2023-09-02,CUST325,Female,52,Electronics,2,25,50,Adult
-682,2023-09-02,CUST682,Male,46,Beauty,4,300,1200,Adult
-925,2023-09-03,CUST925,Male,25,Electronics,1,300,300,Young Adult
-297,2023-09-04,CUST297,Female,40,Electronics,2,500,1000,Adult
-894,2023-09-05,CUST894,Male,52,Electronics,1,30,30,Adult
-814,2023-09-05,CUST814,Female,59,Clothing,1,500,500,Adult
-644,2023-09-06,CUST644,Male,23,Beauty,3,25,75,Young Adult
-194,2023-09-06,CUST194,Male,55,Clothing,4,50,200,Adult
-696,2023-09-06,CUST696,Female,50,Clothing,4,50,200,Adult
-245,2023-09-06,CUST245,Male,47,Clothing,3,30,90,Adult
-296,2023-09-06,CUST296,Female,22,Clothing,4,300,1200,Young Adult
-312,2023-09-07,CUST312,Male,41,Clothing,4,30,120,Adult
-692,2023-09-07,CUST692,Female,64,Clothing,2,50,100,Senior
-835,2023-09-07,CUST835,Male,37,Clothing,4,50,200,Adult
-183,2023-09-08,CUST183,Female,43,Beauty,3,300,900,Adult
-851,2023-09-08,CUST851,Male,32,Electronics,2,25,50,Young Adult
-413,2023-09-08,CUST413,Female,44,Beauty,3,25,75,Adult
-799,2023-09-08,CUST799,Male,56,Electronics,2,50,100,Adult
-935,2023-09-09,CUST935,Female,34,Beauty,1,50,50,Young Adult
-858,2023-09-09,CUST858,Male,23,Electronics,2,50,100,Young Adult
-919,2023-09-09,CUST919,Female,22,Beauty,2,25,50,Young Adult
-132,2023-09-10,CUST132,Male,42,Electronics,4,50,200,Adult
-832,2023-09-11,CUST832,Male,47,Beauty,4,500,2000,Adult
-604,2023-09-11,CUST604,Female,29,Electronics,4,50,200,Young Adult
-113,2023-09-13,CUST113,Female,41,Electronics,2,25,50,Adult
-165,2023-09-14,CUST165,Female,60,Clothing,4,300,1200,Senior
-326,2023-09-15,CUST326,Female,18,Clothing,3,25,75,Young Adult
-632,2023-09-16,CUST632,Female,26,Electronics,4,25,100,Young Adult
-19,2023-09-16,CUST019,Female,62,Clothing,2,25,50,Senior
-412,2023-09-16,CUST412,Female,19,Electronics,4,500,2000,Young Adult
-172,2023-09-17,CUST172,Male,32,Beauty,2,25,50,Young Adult
-167,2023-09-17,CUST167,Female,43,Clothing,3,50,150,Adult
-375,2023-09-17,CUST375,Male,32,Clothing,1,50,50,Young Adult
-538,2023-09-17,CUST538,Male,18,Clothing,3,50,150,Young Adult
-794,2023-09-17,CUST794,Female,60,Beauty,1,300,300,Senior
-131,2023-09-18,CUST131,Female,21,Beauty,2,300,600,Young Adult
-494,2023-09-18,CUST494,Female,42,Beauty,4,50,200,Adult
-330,2023-09-18,CUST330,Female,25,Beauty,4,50,200,Young Adult
-513,2023-09-19,CUST513,Male,24,Electronics,4,25,100,Young Adult
-573,2023-09-19,CUST573,Male,49,Beauty,2,30,60,Adult
-241,2023-09-21,CUST241,Female,23,Electronics,3,25,75,Young Adult
-579,2023-09-21,CUST579,Female,38,Electronics,1,30,30,Adult
-846,2023-09-22,CUST846,Male,42,Beauty,1,50,50,Adult
-218,2023-09-22,CUST218,Male,64,Beauty,3,30,90,Senior
-616,2023-09-23,CUST616,Male,41,Clothing,2,50,100,Adult
-643,2023-09-24,CUST643,Female,28,Electronics,3,30,90,Young Adult
-523,2023-09-24,CUST523,Female,62,Electronics,1,300,300,Senior
-809,2023-09-25,CUST809,Female,62,Beauty,2,50,100,Senior
-954,2023-09-25,CUST954,Female,50,Electronics,3,300,900,Adult
-351,2023-09-25,CUST351,Female,56,Clothing,3,30,90,Adult
-897,2023-09-26,CUST897,Female,64,Electronics,2,50,100,Senior
-147,2023-09-28,CUST147,Male,23,Electronics,1,300,300,Young Adult
-204,2023-09-28,CUST204,Male,39,Beauty,1,25,25,Adult
-390,2023-09-28,CUST390,Male,39,Electronics,2,50,100,Adult
-626,2023-09-29,CUST626,Female,26,Clothing,4,500,2000,Young Adult
-873,2023-09-29,CUST873,Female,27,Electronics,4,25,100,Young Adult
-179,2023-09-29,CUST179,Male,31,Electronics,1,300,300,Young Adult
-327,2023-09-29,CUST327,Male,57,Electronics,3,50,150,Adult
-789,2023-09-30,CUST789,Female,61,Clothing,4,500,2000,Senior
-196,2023-09-30,CUST196,Female,32,Clothing,3,300,900,Young Adult
-707,2023-10-01,CUST707,Female,26,Clothing,1,500,500,Young Adult
-89,2023-10-01,CUST089,Female,55,Electronics,4,500,2000,Adult
-909,2023-10-01,CUST909,Male,26,Electronics,1,300,300,Young Adult
-51,2023-10-02,CUST051,Male,27,Beauty,3,25,75,Young Adult
-889,2023-10-02,CUST889,Female,35,Electronics,1,50,50,Adult
-497,2023-10-02,CUST497,Male,41,Clothing,4,30,120,Adult
-276,2023-10-02,CUST276,Female,21,Beauty,4,25,100,Young Adult
-154,2023-10-02,CUST154,Male,51,Electronics,3,300,900,Adult
-122,2023-10-03,CUST122,Male,64,Electronics,4,30,120,Senior
-813,2023-10-03,CUST813,Male,52,Electronics,3,50,150,Adult
-688,2023-10-03,CUST688,Male,56,Clothing,4,25,100,Adult
-524,2023-10-03,CUST524,Male,46,Beauty,4,300,1200,Adult
-373,2023-10-03,CUST373,Female,25,Beauty,2,300,600,Young Adult
-208,2023-10-04,CUST208,Female,34,Electronics,4,50,200,Young Adult
-290,2023-10-04,CUST290,Female,30,Beauty,2,300,600,Young Adult
-735,2023-10-04,CUST735,Female,64,Clothing,4,500,2000,Senior
-178,2023-10-04,CUST178,Male,40,Clothing,2,30,60,Adult
-656,2023-10-04,CUST656,Male,29,Beauty,3,30,90,Young Adult
-247,2023-10-04,CUST247,Male,41,Electronics,2,30,60,Adult
-319,2023-10-05,CUST319,Male,31,Clothing,1,500,500,Young Adult
-670,2023-10-05,CUST670,Male,27,Beauty,1,30,30,Young Adult
-385,2023-10-06,CUST385,Male,50,Electronics,3,500,1500,Adult
-689,2023-10-07,CUST689,Male,57,Electronics,2,50,100,Adult
-26,2023-10-07,CUST026,Female,28,Electronics,2,500,1000,Young Adult
-10,2023-10-07,CUST010,Female,52,Clothing,4,50,200,Adult
-437,2023-10-07,CUST437,Female,35,Electronics,4,300,1200,Adult
-634,2023-10-08,CUST634,Male,60,Electronics,4,500,2000,Senior
-558,2023-10-08,CUST558,Female,41,Clothing,1,25,25,Adult
-876,2023-10-09,CUST876,Male,43,Clothing,4,30,120,Adult
-201,2023-10-09,CUST201,Male,56,Electronics,1,25,25,Adult
-286,2023-10-09,CUST286,Male,55,Electronics,2,25,50,Adult
-976,2023-10-10,CUST976,Female,48,Beauty,2,300,600,Adult
-55,2023-10-10,CUST055,Male,31,Beauty,4,30,120,Young Adult
-428,2023-10-10,CUST428,Female,40,Electronics,4,50,200,Adult
-441,2023-10-10,CUST441,Male,57,Beauty,4,300,1200,Adult
-546,2023-10-11,CUST546,Female,36,Electronics,4,50,200,Adult
-227,2023-10-11,CUST227,Male,36,Electronics,2,50,100,Adult
-872,2023-10-11,CUST872,Female,63,Beauty,3,25,75,Senior
-149,2023-10-11,CUST149,Male,22,Clothing,3,25,75,Young Adult
-393,2023-10-11,CUST393,Female,22,Beauty,2,500,1000,Young Adult
-401,2023-10-11,CUST401,Female,62,Clothing,1,300,300,Senior
-914,2023-10-11,CUST914,Female,59,Electronics,1,500,500,Adult
-310,2023-10-12,CUST310,Female,28,Beauty,1,25,25,Young Adult
-852,2023-10-12,CUST852,Female,41,Clothing,1,300,300,Adult
-844,2023-10-12,CUST844,Male,35,Clothing,3,50,150,Adult
-619,2023-10-13,CUST619,Male,47,Electronics,4,25,100,Adult
-97,2023-10-13,CUST097,Female,51,Beauty,2,500,1000,Adult
-948,2023-10-13,CUST948,Female,23,Electronics,3,25,75,Young Adult
-456,2023-10-14,CUST456,Male,57,Electronics,2,30,60,Adult
-627,2023-10-14,CUST627,Male,57,Clothing,1,50,50,Adult
-121,2023-10-15,CUST121,Female,28,Electronics,4,50,200,Young Adult
-22,2023-10-15,CUST022,Male,18,Clothing,2,50,100,Young Adult
-431,2023-10-15,CUST431,Male,63,Electronics,4,300,1200,Senior
-943,2023-10-16,CUST943,Female,57,Clothing,4,300,1200,Adult
-754,2023-10-16,CUST754,Female,43,Electronics,4,25,100,Adult
-370,2023-10-16,CUST370,Male,23,Electronics,2,30,60,Young Adult
-711,2023-10-16,CUST711,Male,26,Electronics,3,500,1500,Young Adult
-350,2023-10-17,CUST350,Male,25,Beauty,3,25,75,Young Adult
-786,2023-10-17,CUST786,Male,48,Clothing,4,25,100,Adult
-191,2023-10-18,CUST191,Male,64,Beauty,1,25,25,Senior
-109,2023-10-18,CUST109,Female,34,Electronics,4,500,2000,Young Adult
-555,2023-10-19,CUST555,Male,25,Beauty,1,300,300,Young Adult
-826,2023-10-19,CUST826,Female,46,Clothing,1,300,300,Adult
-340,2023-10-19,CUST340,Female,36,Clothing,4,300,1200,Adult
-962,2023-10-19,CUST962,Male,44,Clothing,2,30,60,Adult
-249,2023-10-20,CUST249,Male,20,Clothing,1,50,50,Young Adult
-922,2023-10-21,CUST922,Male,41,Electronics,1,50,50,Adult
-680,2023-10-22,CUST680,Female,53,Clothing,3,300,900,Adult
-600,2023-10-22,CUST600,Female,59,Beauty,2,500,1000,Adult
-770,2023-10-22,CUST770,Male,32,Clothing,1,50,50,Young Adult
-60,2023-10-23,CUST060,Male,30,Beauty,3,50,150,Young Adult
-937,2023-10-23,CUST937,Female,62,Beauty,1,500,500,Senior
-516,2023-10-23,CUST516,Male,30,Beauty,4,25,100,Young Adult
-250,2023-10-23,CUST250,Male,48,Electronics,1,50,50,Adult
-342,2023-10-24,CUST342,Female,43,Clothing,4,500,2000,Adult
-767,2023-10-24,CUST767,Male,39,Beauty,3,25,75,Adult
-564,2023-10-24,CUST564,Male,50,Electronics,2,50,100,Adult
-318,2023-10-24,CUST318,Male,61,Clothing,1,25,25,Senior
-869,2023-10-25,CUST869,Male,37,Beauty,3,500,1500,Adult
-503,2023-10-25,CUST503,Male,45,Beauty,4,500,2000,Adult
-126,2023-10-26,CUST126,Female,28,Clothing,3,30,90,Young Adult
-349,2023-10-26,CUST349,Female,57,Beauty,1,50,50,Adult
-440,2023-10-26,CUST440,Male,64,Clothing,2,300,600,Senior
-677,2023-10-27,CUST677,Female,19,Beauty,3,500,1500,Young Adult
-324,2023-10-27,CUST324,Female,52,Electronics,3,50,150,Adult
-124,2023-10-27,CUST124,Male,33,Clothing,4,500,2000,Young Adult
-30,2023-10-29,CUST030,Female,39,Beauty,3,300,900,Adult
-959,2023-10-29,CUST959,Female,42,Electronics,2,30,60,Adult
-896,2023-10-29,CUST896,Female,30,Electronics,2,25,50,Young Adult
-998,2023-10-29,CUST998,Female,23,Beauty,4,25,100,Young Adult
-226,2023-10-29,CUST226,Female,61,Clothing,1,50,50,Senior
-229,2023-10-29,CUST229,Male,58,Beauty,3,30,90,Adult
-12,2023-10-30,CUST012,Male,35,Beauty,3,25,75,Adult
-817,2023-10-31,CUST817,Male,30,Beauty,4,50,200,Young Adult
-776,2023-10-31,CUST776,Male,35,Clothing,3,30,90,Adult
-710,2023-10-31,CUST710,Female,26,Electronics,3,500,1500,Young Adult
-983,2023-11-01,CUST983,Female,29,Clothing,1,300,300,Young Adult
-334,2023-11-01,CUST334,Male,31,Electronics,3,300,900,Young Adult
-628,2023-11-01,CUST628,Female,19,Beauty,4,50,200,Young Adult
-343,2023-11-01,CUST343,Male,21,Electronics,2,25,50,Young Adult
-841,2023-11-02,CUST841,Male,31,Electronics,4,25,100,Young Adult
-141,2023-11-02,CUST141,Female,22,Electronics,1,50,50,Young Adult
-145,2023-11-02,CUST145,Female,39,Clothing,3,25,75,Adult
-898,2023-11-02,CUST898,Female,42,Clothing,3,30,90,Adult
-951,2023-11-02,CUST951,Male,33,Beauty,2,50,100,Young Adult
-507,2023-11-02,CUST507,Female,37,Electronics,3,500,1500,Adult
-181,2023-11-03,CUST181,Male,19,Electronics,4,300,1200,Young Adult
-784,2023-11-04,CUST784,Female,34,Electronics,1,500,500,Young Adult
-690,2023-11-05,CUST690,Female,52,Clothing,3,300,900,Adult
-20,2023-11-05,CUST020,Male,22,Clothing,3,300,900,Young Adult
-47,2023-11-06,CUST047,Female,40,Beauty,3,500,1500,Adult
-405,2023-11-06,CUST405,Female,25,Clothing,4,300,1200,Young Adult
-565,2023-11-07,CUST565,Female,45,Beauty,2,30,60,Adult
-950,2023-11-07,CUST950,Male,36,Clothing,3,300,900,Adult
-761,2023-11-07,CUST761,Female,33,Clothing,1,500,500,Young Adult
-762,2023-11-07,CUST762,Female,24,Electronics,2,25,50,Young Adult
-205,2023-11-07,CUST205,Female,43,Clothing,1,25,25,Adult
-512,2023-11-07,CUST512,Female,57,Beauty,1,25,25,Adult
-173,2023-11-08,CUST173,Male,64,Electronics,4,30,120,Senior
-86,2023-11-08,CUST086,Male,19,Beauty,3,30,90,Young Adult
-595,2023-11-09,CUST595,Female,18,Clothing,4,500,2000,Young Adult
-827,2023-11-09,CUST827,Male,61,Beauty,3,300,900,Senior
-965,2023-11-09,CUST965,Male,22,Clothing,4,50,200,Young Adult
-388,2023-11-10,CUST388,Male,50,Electronics,1,25,25,Adult
-631,2023-11-10,CUST631,Male,56,Electronics,3,30,90,Adult
-812,2023-11-12,CUST812,Male,19,Electronics,3,25,75,Young Adult
-554,2023-11-12,CUST554,Female,46,Beauty,3,50,150,Adult
-952,2023-11-13,CUST952,Female,57,Clothing,1,25,25,Adult
-58,2023-11-13,CUST058,Male,18,Clothing,4,300,1200,Young Adult
-582,2023-11-14,CUST582,Male,35,Clothing,3,300,900,Adult
-458,2023-11-14,CUST458,Female,39,Electronics,4,25,100,Adult
-345,2023-11-14,CUST345,Male,62,Electronics,1,30,30,Senior
-963,2023-11-14,CUST963,Female,55,Beauty,1,50,50,Adult
-747,2023-11-15,CUST747,Male,23,Beauty,1,30,30,Young Adult
-369,2023-11-15,CUST369,Male,23,Electronics,3,500,1500,Young Adult
-706,2023-11-15,CUST706,Male,51,Electronics,4,25,100,Adult
-533,2023-11-16,CUST533,Male,19,Electronics,3,500,1500,Young Adult
-997,2023-11-17,CUST997,Male,52,Beauty,3,30,90,Adult
-645,2023-11-17,CUST645,Female,35,Electronics,4,30,120,Adult
-968,2023-11-17,CUST968,Female,48,Clothing,3,300,900,Adult
-169,2023-11-17,CUST169,Male,18,Beauty,3,500,1500,Young Adult
-57,2023-11-18,CUST057,Female,63,Beauty,1,30,30,Senior
-137,2023-11-18,CUST137,Male,46,Beauty,2,500,1000,Adult
-778,2023-11-18,CUST778,Female,47,Beauty,4,25,100,Adult
-938,2023-11-19,CUST938,Male,49,Clothing,4,50,200,Adult
-599,2023-11-19,CUST599,Female,28,Beauty,2,50,100,Young Adult
-234,2023-11-20,CUST234,Female,62,Electronics,2,25,50,Senior
-410,2023-11-21,CUST410,Female,29,Clothing,2,50,100,Young Adult
-581,2023-11-21,CUST581,Female,48,Beauty,2,30,60,Adult
-417,2023-11-21,CUST417,Male,43,Electronics,3,300,900,Adult
-74,2023-11-22,CUST074,Female,18,Beauty,4,500,2000,Young Adult
-87,2023-11-22,CUST087,Female,28,Beauty,2,50,100,Young Adult
-803,2023-11-22,CUST803,Male,39,Clothing,4,25,100,Adult
-424,2023-11-23,CUST424,Male,57,Beauty,4,300,1200,Adult
-641,2023-11-23,CUST641,Female,40,Electronics,1,300,300,Adult
-918,2023-11-23,CUST918,Female,42,Electronics,3,30,90,Adult
-1,2023-11-24,CUST001,Male,34,Beauty,3,50,150,Young Adult
-95,2023-11-24,CUST095,Female,32,Clothing,2,30,60,Young Adult
-171,2023-11-24,CUST171,Female,52,Clothing,3,300,900,Adult
-156,2023-11-25,CUST156,Female,43,Clothing,4,25,100,Adult
-493,2023-11-25,CUST493,Male,41,Beauty,2,25,50,Adult
-715,2023-11-26,CUST715,Female,42,Beauty,4,25,100,Adult
-115,2023-11-26,CUST115,Male,51,Clothing,3,500,1500,Adult
-362,2023-11-27,CUST362,Male,50,Clothing,1,25,25,Adult
-267,2023-11-27,CUST267,Female,32,Beauty,3,30,90,Young Adult
-856,2023-11-27,CUST856,Male,54,Electronics,4,30,120,Adult
-84,2023-11-28,CUST084,Female,38,Electronics,3,30,90,Adult
-795,2023-11-28,CUST795,Male,57,Electronics,1,300,300,Adult
-739,2023-11-29,CUST739,Male,36,Beauty,1,25,25,Adult
-215,2023-11-29,CUST215,Male,58,Clothing,3,500,1500,Adult
-24,2023-11-29,CUST024,Female,49,Clothing,1,300,300,Adult
-289,2023-11-30,CUST289,Male,53,Electronics,2,30,60,Adult
-741,2023-11-30,CUST741,Male,48,Clothing,1,300,300,Adult
-810,2023-11-30,CUST810,Male,59,Electronics,4,25,100,Adult
-266,2023-12-01,CUST266,Female,19,Electronics,2,30,60,Young Adult
-389,2023-12-01,CUST389,Male,21,Clothing,2,25,50,Young Adult
-112,2023-12-02,CUST112,Male,37,Clothing,3,500,1500,Adult
-608,2023-12-02,CUST608,Female,55,Electronics,3,500,1500,Adult
-566,2023-12-02,CUST566,Female,64,Clothing,1,30,30,Senior
-348,2023-12-03,CUST348,Female,35,Electronics,2,300,600,Adult
-576,2023-12-04,CUST576,Female,33,Beauty,3,50,150,Young Adult
-258,2023-12-04,CUST258,Female,37,Clothing,1,50,50,Adult
-485,2023-12-04,CUST485,Male,24,Electronics,1,30,30,Young Adult
-199,2023-12-04,CUST199,Male,45,Beauty,3,500,1500,Adult
-311,2023-12-05,CUST311,Female,32,Beauty,4,25,100,Young Adult
-999,2023-12-05,CUST999,Female,36,Electronics,3,50,150,Adult
-65,2023-12-05,CUST065,Male,51,Electronics,4,500,2000,Adult
-971,2023-12-05,CUST971,Female,27,Electronics,4,50,200,Young Adult
-791,2023-12-05,CUST791,Female,51,Beauty,1,25,25,Adult
-868,2023-12-06,CUST868,Female,25,Electronics,1,300,300,Young Adult
-535,2023-12-06,CUST535,Male,47,Beauty,3,30,90,Adult
-580,2023-12-06,CUST580,Female,31,Clothing,3,500,1500,Young Adult
-395,2023-12-06,CUST395,Male,50,Electronics,2,500,1000,Adult
-712,2023-12-06,CUST712,Female,57,Beauty,2,25,50,Adult
-531,2023-12-07,CUST531,Male,31,Electronics,1,500,500,Young Adult
-550,2023-12-07,CUST550,Male,40,Clothing,3,300,900,Adult
-453,2023-12-08,CUST453,Female,26,Clothing,2,500,1000,Young Adult
-625,2023-12-08,CUST625,Male,31,Clothing,1,300,300,Young Adult
-392,2023-12-08,CUST392,Male,27,Clothing,2,300,600,Young Adult
-540,2023-12-08,CUST540,Female,46,Electronics,3,300,900,Adult
-468,2023-12-09,CUST468,Male,40,Electronics,1,25,25,Adult
-355,2023-12-09,CUST355,Female,55,Electronics,1,500,500,Adult
-828,2023-12-09,CUST828,Female,33,Electronics,4,300,1200,Young Adult
-244,2023-12-09,CUST244,Male,28,Beauty,2,50,100,Young Adult
-752,2023-12-09,CUST752,Male,29,Clothing,2,50,100,Young Adult
-700,2023-12-09,CUST700,Male,36,Electronics,4,500,2000,Adult
-80,2023-12-10,CUST080,Female,64,Clothing,2,30,60,Senior
-214,2023-12-10,CUST214,Male,20,Beauty,2,30,60,Young Adult
-361,2023-12-10,CUST361,Female,34,Electronics,4,300,1200,Young Adult
-526,2023-12-10,CUST526,Male,33,Clothing,2,50,100,Young Adult
-586,2023-12-11,CUST586,Male,50,Electronics,1,50,50,Adult
-265,2023-12-11,CUST265,Male,55,Clothing,3,300,900,Adult
-336,2023-12-12,CUST336,Female,52,Beauty,3,50,150,Adult
-571,2023-12-12,CUST571,Female,41,Electronics,1,50,50,Adult
-771,2023-12-13,CUST771,Male,24,Electronics,2,25,50,Young Adult
-9,2023-12-13,CUST009,Male,63,Electronics,2,300,600,Senior
-552,2023-12-13,CUST552,Female,49,Electronics,3,25,75,Adult
-701,2023-12-14,CUST701,Female,52,Beauty,2,30,60,Adult
-496,2023-12-14,CUST496,Male,23,Clothing,2,300,600,Young Adult
-139,2023-12-15,CUST139,Male,36,Beauty,4,500,2000,Adult
-151,2023-12-15,CUST151,Male,29,Clothing,1,50,50,Young Adult
-83,2023-12-16,CUST083,Male,54,Electronics,2,50,100,Adult
-153,2023-12-16,CUST153,Male,63,Electronics,2,500,1000,Senior
-451,2023-12-16,CUST451,Female,45,Electronics,1,30,30,Adult
-783,2023-12-17,CUST783,Female,56,Clothing,1,300,300,Adult
-99,2023-12-17,CUST099,Female,50,Electronics,4,300,1200,Adult
-525,2023-12-18,CUST525,Female,47,Beauty,2,25,50,Adult
-994,2023-12-18,CUST994,Female,51,Beauty,2,500,1000,Adult
-409,2023-12-18,CUST409,Female,21,Electronics,3,300,900,Young Adult
-939,2023-12-18,CUST939,Female,46,Electronics,1,300,300,Adult
-96,2023-12-19,CUST096,Female,44,Clothing,2,300,600,Adult
-982,2023-12-19,CUST982,Female,46,Beauty,3,30,90,Adult
-609,2023-12-19,CUST609,Female,47,Clothing,2,50,100,Adult
-777,2023-12-20,CUST777,Male,48,Electronics,3,50,150,Adult
-209,2023-12-20,CUST209,Female,30,Electronics,4,50,200,Young Adult
-890,2023-12-20,CUST890,Male,34,Electronics,2,25,50,Young Adult
-435,2023-12-20,CUST435,Female,30,Beauty,3,300,900,Young Adult
-854,2023-12-20,CUST854,Male,29,Clothing,1,50,50,Young Adult
-865,2023-12-21,CUST865,Female,42,Clothing,1,300,300,Adult
-662,2023-12-22,CUST662,Male,48,Beauty,2,500,1000,Adult
-678,2023-12-23,CUST678,Female,60,Electronics,3,300,900,Senior
-615,2023-12-23,CUST615,Female,61,Clothing,4,25,100,Senior
-602,2023-12-23,CUST602,Female,20,Electronics,1,300,300,Young Adult
-544,2023-12-23,CUST544,Female,27,Electronics,1,25,25,Young Adult
-781,2023-12-23,CUST781,Male,35,Beauty,1,500,500,Adult
-309,2023-12-23,CUST309,Female,26,Beauty,1,25,25,Young Adult
-34,2023-12-24,CUST034,Female,51,Clothing,3,50,150,Adult
-916,2023-12-24,CUST916,Female,32,Electronics,1,50,50,Young Adult
-757,2023-12-25,CUST757,Female,43,Electronics,4,300,1200,Adult
-82,2023-12-26,CUST082,Female,32,Beauty,4,50,200,Young Adult
-25,2023-12-26,CUST025,Female,64,Beauty,1,50,50,Senior
-842,2023-12-26,CUST842,Female,47,Clothing,2,300,600,Adult
-472,2023-12-26,CUST472,Female,38,Beauty,3,300,900,Adult
-991,2023-12-26,CUST991,Female,34,Clothing,2,50,100,Young Adult
-879,2023-12-26,CUST879,Male,23,Clothing,1,30,30,Young Adult
-62,2023-12-27,CUST062,Male,18,Beauty,2,50,100,Young Adult
-386,2023-12-27,CUST386,Female,54,Electronics,2,300,600,Adult
-989,2023-12-28,CUST989,Female,44,Electronics,1,25,25,Adult
-664,2023-12-28,CUST664,Female,44,Clothing,4,500,2000,Adult
-429,2023-12-28,CUST429,Male,64,Electronics,2,25,50,Senior
-908,2023-12-29,CUST908,Male,46,Beauty,4,300,1200,Adult
-520,2023-12-29,CUST520,Female,49,Electronics,4,25,100,Adult
-233,2023-12-29,CUST233,Female,51,Beauty,2,300,600,Adult
-805,2023-12-29,CUST805,Female,30,Beauty,3,500,1500,Young Adult
-857,2023-12-31,CUST857,Male,60,Electronics,2,25,50,Senior
-211,2024-01-01,CUST211,Male,42,Beauty,3,500,1500,Adult
-650,2024-01-01,CUST650,Male,55,Electronics,1,30,30,Adult
+522,01-01-2023,CUST522,Male,46,Beauty,3,500,1500,Adult
+180,01-01-2023,CUST180,Male,41,Clothing,3,300,900,Adult
+559,01-01-2023,CUST559,Female,40,Clothing,4,300,1200,Adult
+303,02-01-2023,CUST303,Male,19,Electronics,3,30,90,Young Adult
+979,02-01-2023,CUST979,Female,19,Beauty,1,25,25,Young Adult
+163,02-01-2023,CUST163,Female,64,Clothing,3,50,150,Senior
+421,02-01-2023,CUST421,Female,37,Clothing,3,500,1500,Adult
+610,03-01-2023,CUST610,Female,26,Beauty,2,300,600,Young Adult
+683,04-01-2023,CUST683,Male,38,Beauty,2,500,1000,Adult
+231,04-01-2023,CUST231,Female,23,Clothing,3,50,150,Young Adult
+32,04-01-2023,CUST032,Male,30,Beauty,3,30,90,Young Adult
+391,05-01-2023,CUST391,Male,19,Beauty,2,25,50,Young Adult
+367,05-01-2023,CUST367,Female,57,Electronics,1,50,50,Adult
+432,05-01-2023,CUST432,Female,60,Electronics,2,500,1000,Senior
+150,06-01-2023,CUST150,Female,58,Electronics,4,30,120,Adult
+845,06-01-2023,CUST845,Male,54,Clothing,1,500,500,Adult
+921,07-01-2023,CUST921,Male,51,Electronics,3,25,75,Adult
+797,07-01-2023,CUST797,Male,40,Clothing,3,25,75,Adult
+291,08-01-2023,CUST291,Male,60,Clothing,2,300,600,Senior
+907,08-01-2023,CUST907,Female,45,Electronics,1,25,25,Adult
+860,09-01-2023,CUST860,Male,63,Clothing,4,50,200,Senior
+734,10-01-2023,CUST734,Female,27,Clothing,1,30,30,Young Adult
+184,10-01-2023,CUST184,Male,31,Electronics,4,50,200,Young Adult
+746,11-01-2023,CUST746,Female,33,Clothing,3,30,90,Young Adult
+225,11-01-2023,CUST225,Female,57,Beauty,4,25,100,Adult
+679,11-01-2023,CUST679,Female,18,Beauty,3,30,90,Young Adult
+484,13-01-2023,CUST484,Female,19,Clothing,4,300,1200,Young Adult
+591,13-01-2023,CUST591,Male,53,Electronics,4,25,100,Adult
+3,13-01-2023,CUST003,Male,50,Electronics,1,30,30,Adult
+464,13-01-2023,CUST464,Male,38,Electronics,2,300,600,Adult
+708,14-01-2023,CUST708,Female,43,Beauty,3,300,900,Adult
+768,14-01-2023,CUST768,Female,24,Beauty,3,25,75,Young Adult
+713,14-01-2023,CUST713,Male,34,Beauty,3,25,75,Young Adult
+21,14-01-2023,CUST021,Female,50,Beauty,1,500,500,Adult
+697,15-01-2023,CUST697,Male,53,Clothing,1,500,500,Adult
+831,15-01-2023,CUST831,Male,27,Electronics,4,25,100,Young Adult
+499,15-01-2023,CUST499,Male,46,Beauty,2,30,60,Adult
+743,16-01-2023,CUST743,Female,34,Beauty,4,500,2000,Young Adult
+15,16-01-2023,CUST015,Female,42,Electronics,4,500,2000,Adult
+238,17-01-2023,CUST238,Female,39,Beauty,1,500,500,Adult
+986,17-01-2023,CUST986,Female,49,Clothing,2,500,1000,Adult
+103,17-01-2023,CUST103,Female,59,Clothing,1,25,25,Adult
+14,17-01-2023,CUST014,Male,64,Clothing,4,30,120,Senior
+438,19-01-2023,CUST438,Female,42,Clothing,1,30,30,Adult
+475,20-01-2023,CUST475,Male,26,Clothing,3,25,75,Young Adult
+505,20-01-2023,CUST505,Male,24,Beauty,1,50,50,Young Adult
+448,21-01-2023,CUST448,Female,54,Beauty,2,30,60,Adult
+742,21-01-2023,CUST742,Female,38,Electronics,4,500,2000,Adult
+344,21-01-2023,CUST344,Female,42,Beauty,1,30,30,Adult
+787,22-01-2023,CUST787,Male,41,Electronics,1,25,25,Adult
+445,22-01-2023,CUST445,Female,53,Electronics,1,300,300,Adult
+49,23-01-2023,CUST049,Female,54,Electronics,2,500,1000,Adult
+420,23-01-2023,CUST420,Female,22,Clothing,4,500,2000,Young Adult
+519,23-01-2023,CUST519,Female,36,Electronics,4,30,120,Adult
+64,24-01-2023,CUST064,Male,49,Clothing,4,25,100,Adult
+592,24-01-2023,CUST592,Female,46,Beauty,4,500,2000,Adult
+912,24-01-2023,CUST912,Male,51,Beauty,3,50,150,Adult
+134,25-01-2023,CUST134,Male,49,Electronics,1,50,50,Adult
+288,26-01-2023,CUST288,Male,28,Clothing,4,30,120,Young Adult
+720,26-01-2023,CUST720,Female,56,Beauty,3,500,1500,Adult
+618,26-01-2023,CUST618,Female,27,Beauty,1,50,50,Young Adult
+323,26-01-2023,CUST323,Female,29,Beauty,3,300,900,Young Adult
+929,27-01-2023,CUST929,Female,23,Beauty,3,25,75,Young Adult
+736,27-01-2023,CUST736,Male,29,Clothing,4,25,100,Young Adult
+415,27-01-2023,CUST415,Male,53,Clothing,2,30,60,Adult
+264,28-01-2023,CUST264,Male,47,Clothing,3,300,900,Adult
+940,28-01-2023,CUST940,Female,20,Electronics,1,30,30,Young Adult
+913,28-01-2023,CUST913,Male,29,Electronics,3,30,90,Young Adult
+101,29-01-2023,CUST101,Male,32,Clothing,2,300,600,Young Adult
+317,30-01-2023,CUST317,Male,22,Electronics,3,30,90,Young Adult
+189,30-01-2023,CUST189,Male,63,Beauty,1,50,50,Senior
+322,30-01-2023,CUST322,Male,51,Electronics,1,500,500,Adult
+329,30-01-2023,CUST329,Female,46,Electronics,4,25,100,Adult
+235,31-01-2023,CUST235,Female,23,Electronics,2,500,1000,Young Adult
+300,31-01-2023,CUST300,Female,19,Electronics,4,50,200,Young Adult
+964,31-01-2023,CUST964,Male,24,Clothing,3,300,900,Young Adult
+320,01-02-2023,CUST320,Female,28,Electronics,4,300,1200,Young Adult
+673,01-02-2023,CUST673,Female,43,Clothing,3,500,1500,Adult
+269,01-02-2023,CUST269,Male,25,Clothing,4,500,2000,Young Adult
+142,02-02-2023,CUST142,Male,35,Electronics,4,300,1200,Adult
+666,02-02-2023,CUST666,Male,51,Electronics,3,50,150,Adult
+223,02-02-2023,CUST223,Female,64,Clothing,1,25,25,Senior
+933,03-02-2023,CUST933,Male,22,Beauty,1,30,30,Young Adult
+107,03-02-2023,CUST107,Female,21,Clothing,4,300,1200,Young Adult
+335,04-02-2023,CUST335,Female,47,Beauty,4,30,120,Adult
+237,04-02-2023,CUST237,Female,50,Beauty,2,500,1000,Adult
+530,05-02-2023,CUST530,Female,18,Electronics,4,30,120,Young Adult
+333,05-02-2023,CUST333,Female,54,Electronics,4,300,1200,Adult
+740,05-02-2023,CUST740,Female,25,Beauty,4,50,200,Young Adult
+379,05-02-2023,CUST379,Female,47,Clothing,1,25,25,Adult
+490,05-02-2023,CUST490,Male,34,Clothing,3,50,150,Young Adult
+63,05-02-2023,CUST063,Male,57,Electronics,2,25,50,Adult
+793,05-02-2023,CUST793,Male,54,Beauty,1,30,30,Adult
+195,05-02-2023,CUST195,Male,52,Clothing,1,30,30,Adult
+240,06-02-2023,CUST240,Female,23,Beauty,1,300,300,Young Adult
+993,06-02-2023,CUST993,Female,48,Electronics,3,50,150,Adult
+232,06-02-2023,CUST232,Female,43,Beauty,1,25,25,Adult
+85,06-02-2023,CUST085,Male,31,Clothing,3,50,150,Young Adult
+372,07-02-2023,CUST372,Female,24,Beauty,3,500,1500,Young Adult
+366,07-02-2023,CUST366,Male,57,Clothing,2,50,100,Adult
+936,07-02-2023,CUST936,Male,57,Beauty,4,50,200,Adult
+596,07-02-2023,CUST596,Female,64,Electronics,1,300,300,Senior
+284,08-02-2023,CUST284,Male,43,Clothing,4,50,200,Adult
+977,08-02-2023,CUST977,Female,35,Electronics,3,25,75,Adult
+775,08-02-2023,CUST775,Female,46,Electronics,4,25,100,Adult
+434,08-02-2023,CUST434,Female,43,Electronics,2,25,50,Adult
+649,09-02-2023,CUST649,Female,58,Clothing,2,300,600,Adult
+68,10-02-2023,CUST068,Male,25,Electronics,1,300,300,Young Adult
+192,10-02-2023,CUST192,Male,62,Beauty,2,50,100,Senior
+54,10-02-2023,CUST054,Female,38,Electronics,3,500,1500,Adult
+657,11-02-2023,CUST657,Male,40,Clothing,1,25,25,Adult
+331,11-02-2023,CUST331,Male,28,Electronics,3,30,90,Young Adult
+346,11-02-2023,CUST346,Male,59,Clothing,2,500,1000,Adult
+972,11-02-2023,CUST972,Male,49,Beauty,4,25,100,Adult
+732,11-02-2023,CUST732,Male,61,Electronics,2,500,1000,Senior
+714,12-02-2023,CUST714,Female,18,Clothing,1,500,500,Young Adult
+945,13-02-2023,CUST945,Male,30,Beauty,1,25,25,Young Adult
+577,13-02-2023,CUST577,Male,21,Beauty,4,500,2000,Young Adult
+193,13-02-2023,CUST193,Male,35,Beauty,3,500,1500,Adult
+848,13-02-2023,CUST848,Female,63,Clothing,3,25,75,Senior
+11,14-02-2023,CUST011,Male,23,Clothing,2,50,100,Young Adult
+821,14-02-2023,CUST821,Male,49,Electronics,1,300,300,Adult
+133,16-02-2023,CUST133,Male,20,Electronics,3,300,900,Young Adult
+292,17-02-2023,CUST292,Male,20,Beauty,4,300,1200,Young Adult
+861,17-02-2023,CUST861,Female,41,Clothing,3,30,90,Adult
+16,17-02-2023,CUST016,Male,19,Clothing,3,500,1500,Young Adult
+416,17-02-2023,CUST416,Male,53,Electronics,4,500,2000,Adult
+584,17-02-2023,CUST584,Female,27,Beauty,4,50,200,Young Adult
+42,17-02-2023,CUST042,Male,22,Clothing,3,300,900,Young Adult
+256,18-02-2023,CUST256,Male,23,Clothing,2,500,1000,Young Adult
+44,19-02-2023,CUST044,Female,22,Clothing,1,25,25,Young Adult
+257,19-02-2023,CUST257,Male,19,Beauty,4,500,2000,Young Adult
+966,20-02-2023,CUST966,Male,60,Electronics,2,500,1000,Senior
+268,20-02-2023,CUST268,Female,28,Electronics,1,30,30,Young Adult
+287,20-02-2023,CUST287,Male,54,Clothing,4,25,100,Adult
+900,21-02-2023,CUST900,Male,21,Clothing,2,30,60,Young Adult
+371,21-02-2023,CUST371,Female,20,Beauty,1,25,25,Young Adult
+70,21-02-2023,CUST070,Female,43,Clothing,1,300,300,Adult
+920,22-02-2023,CUST920,Female,28,Beauty,3,25,75,Young Adult
+780,22-02-2023,CUST780,Male,52,Electronics,2,25,50,Adult
+8,22-02-2023,CUST008,Male,30,Electronics,4,25,100,Young Adult
+41,22-02-2023,CUST041,Male,34,Clothing,2,25,50,Young Adult
+454,22-02-2023,CUST454,Female,46,Beauty,1,25,25,Adult
+396,23-02-2023,CUST396,Female,55,Beauty,1,30,30,Adult
+400,24-02-2023,CUST400,Male,53,Clothing,4,50,200,Adult
+611,24-02-2023,CUST611,Male,51,Beauty,3,500,1500,Adult
+800,24-02-2023,CUST800,Male,32,Clothing,4,300,1200,Young Adult
+168,24-02-2023,CUST168,Male,53,Clothing,1,300,300,Adult
+473,25-02-2023,CUST473,Male,64,Beauty,1,50,50,Senior
+506,25-02-2023,CUST506,Male,34,Beauty,3,500,1500,Young Adult
+766,25-02-2023,CUST766,Male,38,Electronics,3,300,900,Adult
+272,25-02-2023,CUST272,Female,61,Electronics,2,50,100,Senior
+135,26-02-2023,CUST135,Male,20,Clothing,2,25,50,Young Adult
+185,27-02-2023,CUST185,Male,24,Clothing,1,25,25,Young Adult
+158,27-02-2023,CUST158,Female,44,Electronics,2,300,600,Adult
+433,27-02-2023,CUST433,Male,29,Beauty,4,50,200,Young Adult
+2,27-02-2023,CUST002,Female,26,Clothing,2,500,1000,Young Adult
+152,28-02-2023,CUST152,Male,43,Electronics,4,500,2000,Adult
+763,28-02-2023,CUST763,Male,34,Clothing,2,25,50,Young Adult
+753,28-02-2023,CUST753,Female,32,Clothing,1,30,30,Young Adult
+932,28-02-2023,CUST932,Female,45,Beauty,4,25,100,Adult
+399,01-03-2023,CUST399,Female,64,Beauty,2,30,60,Senior
+500,01-03-2023,CUST500,Female,60,Beauty,4,25,100,Senior
+514,01-03-2023,CUST514,Female,18,Electronics,1,300,300,Young Adult
+947,02-03-2023,CUST947,Male,50,Beauty,1,300,300,Adult
+888,03-03-2023,CUST888,Female,52,Electronics,4,25,100,Adult
+885,03-03-2023,CUST885,Female,52,Clothing,4,30,120,Adult
+220,03-03-2023,CUST220,Male,64,Beauty,1,500,500,Senior
+339,03-03-2023,CUST339,Female,22,Electronics,2,25,50,Young Adult
+785,03-03-2023,CUST785,Female,31,Beauty,4,50,200,Young Adult
+621,04-03-2023,CUST621,Female,40,Beauty,2,500,1000,Adult
+536,05-03-2023,CUST536,Female,55,Beauty,4,30,120,Adult
+52,05-03-2023,CUST052,Female,36,Beauty,1,300,300,Adult
+917,06-03-2023,CUST917,Female,57,Electronics,4,50,200,Adult
+910,06-03-2023,CUST910,Female,20,Beauty,3,50,150,Young Adult
+197,06-03-2023,CUST197,Female,42,Clothing,4,50,200,Adult
+750,06-03-2023,CUST750,Female,35,Clothing,3,25,75,Adult
+198,07-03-2023,CUST198,Female,54,Beauty,3,300,900,Adult
+547,07-03-2023,CUST547,Male,63,Clothing,4,500,2000,Senior
+705,07-03-2023,CUST705,Male,60,Electronics,2,25,50,Senior
+444,07-03-2023,CUST444,Female,61,Clothing,3,30,90,Senior
+423,08-03-2023,CUST423,Female,27,Clothing,1,25,25,Young Adult
+377,09-03-2023,CUST377,Female,46,Clothing,4,50,200,Adult
+248,09-03-2023,CUST248,Male,26,Clothing,3,300,900,Young Adult
+360,09-03-2023,CUST360,Male,42,Clothing,4,25,100,Adult
+623,10-03-2023,CUST623,Male,34,Clothing,3,50,150,Young Adult
+397,10-03-2023,CUST397,Female,30,Beauty,1,25,25,Young Adult
+717,11-03-2023,CUST717,Male,57,Clothing,1,500,500,Adult
+130,12-03-2023,CUST130,Female,57,Clothing,1,500,500,Adult
+658,12-03-2023,CUST658,Male,59,Clothing,1,25,25,Adult
+119,13-03-2023,CUST119,Female,60,Clothing,3,50,150,Senior
+7,13-03-2023,CUST007,Male,46,Clothing,2,25,50,Adult
+278,13-03-2023,CUST278,Female,37,Clothing,4,25,100,Adult
+117,15-03-2023,CUST117,Male,19,Electronics,2,500,1000,Young Adult
+442,17-03-2023,CUST442,Female,60,Clothing,4,25,100,Senior
+590,17-03-2023,CUST590,Male,36,Clothing,3,300,900,Adult
+607,17-03-2023,CUST607,Male,54,Clothing,3,25,75,Adult
+436,18-03-2023,CUST436,Female,57,Clothing,4,30,120,Adult
+942,18-03-2023,CUST942,Male,51,Clothing,3,500,1500,Adult
+659,19-03-2023,CUST659,Female,39,Electronics,1,30,30,Adult
+941,19-03-2023,CUST941,Female,57,Clothing,2,25,50,Adult
+806,20-03-2023,CUST806,Female,35,Beauty,3,300,900,Adult
+748,20-03-2023,CUST748,Male,25,Clothing,3,50,150,Young Adult
+175,20-03-2023,CUST175,Female,31,Electronics,4,25,100,Young Adult
+663,20-03-2023,CUST663,Male,23,Clothing,4,300,1200,Young Adult
+136,20-03-2023,CUST136,Male,44,Electronics,2,300,600,Adult
+38,21-03-2023,CUST038,Male,38,Beauty,4,50,200,Adult
+459,21-03-2023,CUST459,Male,28,Clothing,4,300,1200,Young Adult
+402,21-03-2023,CUST402,Female,41,Clothing,2,300,600,Adult
+313,21-03-2023,CUST313,Female,55,Beauty,3,500,1500,Adult
+973,22-03-2023,CUST973,Male,60,Clothing,1,50,50,Senior
+328,22-03-2023,CUST328,Male,39,Beauty,2,50,100,Adult
+978,22-03-2023,CUST978,Female,53,Clothing,3,50,150,Adult
+161,22-03-2023,CUST161,Male,64,Beauty,2,500,1000,Senior
+383,22-03-2023,CUST383,Female,46,Beauty,3,30,90,Adult
+138,23-03-2023,CUST138,Male,49,Clothing,4,50,200,Adult
+636,23-03-2023,CUST636,Female,21,Beauty,3,500,1500,Young Adult
+33,23-03-2023,CUST033,Female,50,Electronics,2,50,100,Adult
+471,23-03-2023,CUST471,Male,32,Clothing,3,50,150,Young Adult
+426,24-03-2023,CUST426,Male,23,Electronics,3,50,150,Young Adult
+177,24-03-2023,CUST177,Male,45,Beauty,2,50,100,Adult
+461,25-03-2023,CUST461,Female,18,Beauty,2,500,1000,Young Adult
+76,25-03-2023,CUST076,Female,22,Electronics,2,50,100,Young Adult
+764,25-03-2023,CUST764,Female,40,Clothing,1,25,25,Adult
+91,25-03-2023,CUST091,Female,55,Electronics,1,500,500,Adult
+301,26-03-2023,CUST301,Male,30,Clothing,4,30,120,Young Adult
+703,26-03-2023,CUST703,Male,34,Electronics,2,50,100,Young Adult
+202,26-03-2023,CUST202,Female,34,Clothing,4,300,1200,Young Adult
+760,27-03-2023,CUST760,Male,27,Beauty,1,500,500,Young Adult
+294,27-03-2023,CUST294,Female,23,Clothing,3,30,90,Young Adult
+575,28-03-2023,CUST575,Male,60,Clothing,2,50,100,Senior
+88,29-03-2023,CUST088,Male,56,Clothing,1,500,500,Adult
+975,30-03-2023,CUST975,Female,56,Clothing,4,50,200,Adult
+553,31-03-2023,CUST553,Male,24,Clothing,4,300,1200,Young Adult
+808,01-04-2023,CUST808,Male,33,Beauty,4,500,2000,Young Adult
+614,01-04-2023,CUST614,Female,39,Beauty,4,300,1200,Adult
+462,01-04-2023,CUST462,Male,63,Electronics,4,300,1200,Senior
+502,02-04-2023,CUST502,Male,43,Electronics,3,50,150,Adult
+465,02-04-2023,CUST465,Female,43,Electronics,3,50,150,Adult
+166,02-04-2023,CUST166,Male,34,Clothing,4,500,2000,Young Adult
+905,02-04-2023,CUST905,Male,58,Beauty,1,300,300,Adult
+280,04-04-2023,CUST280,Female,37,Clothing,3,500,1500,Adult
+834,04-04-2023,CUST834,Female,56,Beauty,2,30,60,Adult
+719,04-04-2023,CUST719,Female,42,Clothing,2,30,60,Adult
+891,05-04-2023,CUST891,Male,41,Electronics,3,300,900,Adult
+928,05-04-2023,CUST928,Female,35,Clothing,4,300,1200,Adult
+332,06-04-2023,CUST332,Male,58,Electronics,4,300,1200,Adult
+255,08-04-2023,CUST255,Male,48,Clothing,1,30,30,Adult
+275,08-04-2023,CUST275,Male,43,Clothing,2,500,1000,Adult
+517,08-04-2023,CUST517,Female,47,Clothing,4,25,100,Adult
+314,08-04-2023,CUST314,Male,52,Clothing,4,30,120,Adult
+847,08-04-2023,CUST847,Female,18,Electronics,4,300,1200,Young Adult
+61,09-04-2023,CUST061,Male,21,Beauty,4,50,200,Young Adult
+886,09-04-2023,CUST886,Male,37,Electronics,3,300,900,Adult
+548,09-04-2023,CUST548,Female,51,Clothing,2,30,60,Adult
+892,09-04-2023,CUST892,Male,20,Electronics,1,50,50,Young Adult
+274,09-04-2023,CUST274,Female,23,Clothing,2,500,1000,Young Adult
+486,09-04-2023,CUST486,Female,35,Electronics,1,25,25,Adult
+601,10-04-2023,CUST601,Male,19,Clothing,1,30,30,Young Adult
+901,10-04-2023,CUST901,Male,31,Electronics,1,30,30,Young Adult
+527,11-04-2023,CUST527,Male,57,Clothing,2,25,50,Adult
+774,12-04-2023,CUST774,Female,40,Clothing,2,25,50,Adult
+589,12-04-2023,CUST589,Female,36,Beauty,2,500,1000,Adult
+1000,12-04-2023,CUST1000,Male,47,Electronics,4,30,120,Adult
+23,12-04-2023,CUST023,Female,35,Clothing,4,30,120,Adult
+174,12-04-2023,CUST174,Female,39,Beauty,1,300,300,Adult
+210,13-04-2023,CUST210,Male,37,Electronics,4,50,200,Adult
+745,13-04-2023,CUST745,Male,54,Beauty,2,50,100,Adult
+478,13-04-2023,CUST478,Female,58,Clothing,2,30,60,Adult
+354,15-04-2023,CUST354,Female,49,Beauty,4,50,200,Adult
+408,15-04-2023,CUST408,Female,64,Beauty,1,500,500,Senior
+674,16-04-2023,CUST674,Female,38,Clothing,1,300,300,Adult
+967,17-04-2023,CUST967,Male,62,Beauty,1,25,25,Senior
+450,18-04-2023,CUST450,Female,59,Beauty,2,25,50,Adult
+79,18-04-2023,CUST079,Male,34,Beauty,1,300,300,Young Adult
+562,18-04-2023,CUST562,Male,54,Electronics,2,25,50,Adult
+406,18-04-2023,CUST406,Female,22,Beauty,4,25,100,Young Adult
+836,19-04-2023,CUST836,Female,22,Clothing,1,50,50,Young Adult
+969,19-04-2023,CUST969,Female,40,Clothing,3,300,900,Adult
+111,19-04-2023,CUST111,Female,34,Electronics,3,500,1500,Young Adult
+207,19-04-2023,CUST207,Female,42,Beauty,2,25,50,Adult
+108,19-04-2023,CUST108,Female,27,Beauty,3,25,75,Young Adult
+724,19-04-2023,CUST724,Male,61,Clothing,3,50,150,Senior
+246,20-04-2023,CUST246,Female,48,Electronics,2,25,50,Adult
+572,20-04-2023,CUST572,Male,31,Clothing,4,500,2000,Young Adult
+665,20-04-2023,CUST665,Male,57,Clothing,1,50,50,Adult
+298,20-04-2023,CUST298,Male,27,Beauty,4,300,1200,Young Adult
+374,20-04-2023,CUST374,Female,59,Beauty,3,25,75,Adult
+39,21-04-2023,CUST039,Male,23,Clothing,4,30,120,Young Adult
+893,21-04-2023,CUST893,Male,49,Electronics,1,50,50,Adult
+316,22-04-2023,CUST316,Female,48,Clothing,2,25,50,Adult
+17,22-04-2023,CUST017,Female,27,Clothing,4,25,100,Young Adult
+755,22-04-2023,CUST755,Female,58,Clothing,3,25,75,Adult
+129,23-04-2023,CUST129,Female,21,Beauty,2,300,600,Young Adult
+98,23-04-2023,CUST098,Female,55,Beauty,2,50,100,Adult
+230,23-04-2023,CUST230,Male,54,Beauty,1,25,25,Adult
+28,23-04-2023,CUST028,Female,43,Beauty,1,500,500,Adult
+613,23-04-2023,CUST613,Female,52,Clothing,3,30,90,Adult
+693,23-04-2023,CUST693,Male,41,Beauty,3,500,1500,Adult
+691,23-04-2023,CUST691,Female,51,Clothing,3,30,90,Adult
+477,24-04-2023,CUST477,Male,43,Clothing,4,30,120,Adult
+863,24-04-2023,CUST863,Female,30,Electronics,2,25,50,Young Adult
+738,25-04-2023,CUST738,Male,41,Clothing,2,50,100,Adult
+483,25-04-2023,CUST483,Male,55,Clothing,1,30,30,Adult
+6,25-04-2023,CUST006,Female,45,Beauty,1,30,30,Adult
+222,26-04-2023,CUST222,Male,51,Clothing,4,30,120,Adult
+953,26-04-2023,CUST953,Male,45,Beauty,3,30,90,Adult
+588,26-04-2023,CUST588,Male,38,Electronics,2,30,60,Adult
+903,27-04-2023,CUST903,Female,51,Beauty,4,50,200,Adult
+66,27-04-2023,CUST066,Female,45,Electronics,1,30,30,Adult
+482,27-04-2023,CUST482,Female,28,Clothing,4,300,1200,Young Adult
+102,28-04-2023,CUST102,Female,47,Beauty,2,25,50,Adult
+228,28-04-2023,CUST228,Female,59,Electronics,2,30,60,Adult
+236,28-04-2023,CUST236,Female,54,Clothing,1,25,25,Adult
+987,29-04-2023,CUST987,Female,30,Clothing,3,300,900,Young Adult
+660,29-04-2023,CUST660,Female,38,Beauty,2,500,1000,Adult
+884,29-04-2023,CUST884,Female,26,Clothing,2,30,60,Young Adult
+69,30-04-2023,CUST069,Female,56,Beauty,3,25,75,Adult
+995,30-04-2023,CUST995,Female,41,Clothing,1,30,30,Adult
+18,30-04-2023,CUST018,Female,47,Electronics,2,25,50,Adult
+652,01-05-2023,CUST652,Female,34,Beauty,2,50,100,Young Adult
+337,01-05-2023,CUST337,Male,38,Clothing,1,500,500,Adult
+585,01-05-2023,CUST585,Female,24,Clothing,1,25,25,Young Adult
+293,02-05-2023,CUST293,Male,50,Electronics,3,30,90,Adult
+242,02-05-2023,CUST242,Male,21,Clothing,1,25,25,Young Adult
+460,02-05-2023,CUST460,Male,40,Beauty,1,50,50,Adult
+646,03-05-2023,CUST646,Male,38,Clothing,3,30,90,Adult
+188,03-05-2023,CUST188,Male,40,Clothing,3,25,75,Adult
+357,03-05-2023,CUST357,Female,40,Electronics,3,25,75,Adult
+974,03-05-2023,CUST974,Male,47,Beauty,1,30,30,Adult
+749,03-05-2023,CUST749,Male,42,Beauty,1,30,30,Adult
+190,04-05-2023,CUST190,Female,60,Beauty,3,30,90,Senior
+849,04-05-2023,CUST849,Male,32,Clothing,2,25,50,Young Adult
+853,04-05-2023,CUST853,Male,21,Beauty,2,500,1000,Young Adult
+824,05-05-2023,CUST824,Male,63,Clothing,4,30,120,Senior
+606,05-05-2023,CUST606,Male,22,Electronics,1,50,50,Young Adult
+779,05-05-2023,CUST779,Female,56,Electronics,2,500,1000,Adult
+252,05-05-2023,CUST252,Male,54,Electronics,1,300,300,Adult
+866,05-05-2023,CUST866,Male,24,Electronics,1,50,50,Young Adult
+5,06-05-2023,CUST005,Male,30,Beauty,2,50,100,Young Adult
+820,06-05-2023,CUST820,Male,49,Electronics,4,50,200,Adult
+593,06-05-2023,CUST593,Male,35,Electronics,2,30,60,Adult
+380,06-05-2023,CUST380,Male,56,Electronics,2,300,600,Adult
+90,06-05-2023,CUST090,Female,51,Electronics,1,30,30,Adult
+120,07-05-2023,CUST120,Male,60,Beauty,1,50,50,Senior
+221,07-05-2023,CUST221,Male,39,Beauty,2,300,600,Adult
+341,07-05-2023,CUST341,Male,31,Clothing,4,50,200,Young Adult
+640,07-05-2023,CUST640,Female,51,Electronics,4,30,120,Adult
+744,07-05-2023,CUST744,Male,40,Electronics,1,25,25,Adult
+469,08-05-2023,CUST469,Male,18,Beauty,3,25,75,Young Adult
+283,08-05-2023,CUST283,Female,18,Electronics,1,500,500,Young Adult
+273,08-05-2023,CUST273,Female,22,Beauty,1,50,50,Young Adult
+620,08-05-2023,CUST620,Male,63,Electronics,3,25,75,Senior
+452,08-05-2023,CUST452,Female,48,Clothing,3,500,1500,Adult
+946,08-05-2023,CUST946,Male,62,Electronics,4,500,2000,Senior
+883,09-05-2023,CUST883,Male,40,Electronics,1,500,500,Adult
+414,09-05-2023,CUST414,Male,48,Beauty,4,25,100,Adult
+148,09-05-2023,CUST148,Male,18,Clothing,2,30,60,Young Adult
+930,10-05-2023,CUST930,Male,54,Clothing,4,50,200,Adult
+731,10-05-2023,CUST731,Male,54,Clothing,4,500,2000,Adult
+518,11-05-2023,CUST518,Female,40,Clothing,1,30,30,Adult
+758,12-05-2023,CUST758,Male,64,Clothing,4,25,100,Senior
+639,13-05-2023,CUST639,Female,62,Beauty,4,50,200,Senior
+838,13-05-2023,CUST838,Male,47,Electronics,2,300,600,Adult
+501,14-05-2023,CUST501,Male,39,Electronics,2,30,60,Adult
+721,14-05-2023,CUST721,Female,52,Clothing,1,500,500,Adult
+353,14-05-2023,CUST353,Male,31,Electronics,1,500,500,Young Adult
+123,15-05-2023,CUST123,Female,40,Electronics,2,30,60,Adult
+425,15-05-2023,CUST425,Female,55,Electronics,4,30,120,Adult
+164,15-05-2023,CUST164,Female,47,Beauty,3,500,1500,Adult
+398,16-05-2023,CUST398,Female,48,Clothing,2,300,600,Adult
+305,16-05-2023,CUST305,Female,18,Beauty,1,30,30,Young Adult
+358,16-05-2023,CUST358,Female,32,Beauty,1,300,300,Young Adult
+48,16-05-2023,CUST048,Male,54,Electronics,3,300,900,Adult
+376,16-05-2023,CUST376,Female,64,Beauty,1,30,30,Senior
+996,16-05-2023,CUST996,Male,62,Clothing,1,50,50,Senior
+118,16-05-2023,CUST118,Female,30,Electronics,4,500,2000,Young Adult
+970,16-05-2023,CUST970,Male,59,Electronics,4,500,2000,Adult
+203,16-05-2023,CUST203,Male,56,Clothing,2,500,1000,Adult
+504,16-05-2023,CUST504,Female,38,Beauty,3,50,150,Adult
+411,16-05-2023,CUST411,Male,62,Electronics,4,50,200,Senior
+155,17-05-2023,CUST155,Male,31,Electronics,4,500,2000,Young Adult
+81,17-05-2023,CUST081,Male,40,Electronics,1,50,50,Adult
+470,17-05-2023,CUST470,Female,57,Clothing,2,500,1000,Adult
+818,18-05-2023,CUST818,Male,30,Electronics,1,500,500,Young Adult
+106,18-05-2023,CUST106,Female,46,Clothing,1,50,50,Adult
+811,19-05-2023,CUST811,Male,61,Beauty,2,25,50,Senior
+94,19-05-2023,CUST094,Female,47,Beauty,2,500,1000,Adult
+881,19-05-2023,CUST881,Male,22,Electronics,1,300,300,Young Adult
+694,20-05-2023,CUST694,Female,39,Electronics,2,25,50,Adult
+653,20-05-2023,CUST653,Male,54,Clothing,3,25,75,Adult
+403,20-05-2023,CUST403,Male,32,Clothing,2,300,600,Young Adult
+911,21-05-2023,CUST911,Male,42,Electronics,3,300,900,Adult
+647,21-05-2023,CUST647,Male,59,Clothing,3,500,1500,Adult
+4,21-05-2023,CUST004,Male,37,Clothing,1,500,500,Adult
+843,22-05-2023,CUST843,Male,21,Beauty,3,500,1500,Young Adult
+895,22-05-2023,CUST895,Female,55,Clothing,4,30,120,Adult
+419,22-05-2023,CUST419,Female,44,Clothing,3,30,90,Adult
+642,22-05-2023,CUST642,Female,54,Clothing,4,25,100,Adult
+72,23-05-2023,CUST072,Female,20,Electronics,4,500,2000,Young Adult
+243,23-05-2023,CUST243,Female,47,Electronics,3,300,900,Adult
+822,23-05-2023,CUST822,Female,52,Beauty,3,50,150,Adult
+281,23-05-2023,CUST281,Female,29,Beauty,4,500,2000,Young Adult
+31,23-05-2023,CUST031,Male,44,Electronics,4,300,1200,Adult
+489,23-05-2023,CUST489,Male,44,Electronics,1,30,30,Adult
+729,23-05-2023,CUST729,Male,29,Clothing,4,300,1200,Young Adult
+37,23-05-2023,CUST037,Female,18,Beauty,3,25,75,Young Adult
+491,23-05-2023,CUST491,Female,60,Electronics,3,300,900,Senior
+840,24-05-2023,CUST840,Male,62,Clothing,2,25,50,Senior
+990,25-05-2023,CUST990,Female,58,Beauty,2,500,1000,Adult
+404,25-05-2023,CUST404,Male,46,Electronics,2,500,1000,Adult
+899,25-05-2023,CUST899,Male,26,Clothing,2,300,600,Young Adult
+923,26-05-2023,CUST923,Male,32,Beauty,3,300,900,Young Adult
+382,26-05-2023,CUST382,Female,53,Clothing,2,500,1000,Adult
+578,26-05-2023,CUST578,Female,54,Clothing,4,30,120,Adult
+561,27-05-2023,CUST561,Female,64,Clothing,4,500,2000,Senior
+651,27-05-2023,CUST651,Male,51,Clothing,3,50,150,Adult
+307,27-05-2023,CUST307,Female,26,Electronics,2,25,50,Young Adult
+988,28-05-2023,CUST988,Female,63,Clothing,3,25,75,Senior
+67,29-05-2023,CUST067,Female,48,Beauty,4,300,1200,Adult
+985,30-05-2023,CUST985,Female,19,Electronics,2,25,50,Young Adult
+915,30-05-2023,CUST915,Female,26,Beauty,3,30,90,Young Adult
+159,31-05-2023,CUST159,Male,26,Clothing,4,50,200,Young Adult
+56,31-05-2023,CUST056,Female,26,Clothing,3,300,900,Young Adult
+862,31-05-2023,CUST862,Male,28,Electronics,4,300,1200,Young Adult
+545,01-06-2023,CUST545,Male,27,Clothing,2,25,50,Young Adult
+902,01-06-2023,CUST902,Female,54,Beauty,1,50,50,Adult
+315,01-06-2023,CUST315,Male,47,Clothing,2,30,60,Adult
+958,02-06-2023,CUST958,Male,62,Electronics,2,25,50,Senior
+170,02-06-2023,CUST170,Female,25,Clothing,2,25,50,Young Adult
+685,02-06-2023,CUST685,Male,57,Electronics,2,25,50,Adult
+363,03-06-2023,CUST363,Male,64,Beauty,1,25,25,Senior
+537,03-06-2023,CUST537,Female,21,Beauty,1,500,500,Young Adult
+394,03-06-2023,CUST394,Female,27,Clothing,1,500,500,Young Adult
+387,04-06-2023,CUST387,Male,44,Beauty,1,30,30,Adult
+556,04-06-2023,CUST556,Female,18,Electronics,1,50,50,Young Adult
+782,04-06-2023,CUST782,Male,59,Clothing,3,300,900,Adult
+906,04-06-2023,CUST906,Female,20,Clothing,1,50,50,Young Adult
+944,05-06-2023,CUST944,Male,44,Clothing,2,25,50,Adult
+560,05-06-2023,CUST560,Female,25,Electronics,1,50,50,Young Adult
+961,06-06-2023,CUST961,Male,53,Beauty,4,50,200,Adult
+867,06-06-2023,CUST867,Male,21,Electronics,1,500,500,Young Adult
+481,06-06-2023,CUST481,Female,43,Electronics,4,300,1200,Adult
+882,06-06-2023,CUST882,Female,64,Electronics,2,25,50,Senior
+446,07-06-2023,CUST446,Male,21,Electronics,1,50,50,Young Adult
+187,07-06-2023,CUST187,Female,64,Clothing,2,50,100,Senior
+539,08-06-2023,CUST539,Male,25,Beauty,1,500,500,Young Adult
+587,08-06-2023,CUST587,Female,40,Beauty,4,300,1200,Adult
+769,09-06-2023,CUST769,Female,31,Electronics,4,30,120,Young Adult
+765,09-06-2023,CUST765,Male,43,Clothing,4,50,200,Adult
+212,09-06-2023,CUST212,Male,21,Clothing,3,500,1500,Young Adult
+510,10-06-2023,CUST510,Female,39,Beauty,4,50,200,Adult
+356,10-06-2023,CUST356,Male,50,Electronics,3,500,1500,Adult
+321,10-06-2023,CUST321,Female,26,Electronics,2,25,50,Young Adult
+534,10-06-2023,CUST534,Male,45,Clothing,2,500,1000,Adult
+352,11-06-2023,CUST352,Male,57,Electronics,2,500,1000,Adult
+365,11-06-2023,CUST365,Male,31,Clothing,1,300,300,Young Adult
+110,11-06-2023,CUST110,Male,27,Clothing,3,300,900,Young Adult
+887,11-06-2023,CUST887,Male,59,Clothing,4,25,100,Adult
+104,11-06-2023,CUST104,Female,34,Beauty,2,500,1000,Young Adult
+629,12-06-2023,CUST629,Male,62,Electronics,2,25,50,Senior
+655,13-06-2023,CUST655,Female,55,Clothing,1,500,500,Adult
+567,14-06-2023,CUST567,Female,25,Clothing,3,300,900,Young Adult
+182,15-06-2023,CUST182,Male,62,Beauty,4,30,120,Senior
+819,15-06-2023,CUST819,Female,35,Beauty,2,50,100,Adult
+833,16-06-2023,CUST833,Male,42,Beauty,4,50,200,Adult
+100,16-06-2023,CUST100,Male,41,Electronics,1,30,30,Adult
+723,17-06-2023,CUST723,Female,54,Beauty,4,50,200,Adult
+542,17-06-2023,CUST542,Female,20,Beauty,1,50,50,Young Adult
+726,17-06-2023,CUST726,Male,47,Clothing,4,300,1200,Adult
+488,18-06-2023,CUST488,Female,51,Electronics,3,300,900,Adult
+532,19-06-2023,CUST532,Female,64,Clothing,4,30,120,Senior
+669,19-06-2023,CUST669,Male,24,Beauty,4,300,1200,Young Adult
+877,19-06-2023,CUST877,Female,58,Clothing,1,25,25,Adult
+239,19-06-2023,CUST239,Male,38,Electronics,3,500,1500,Adult
+498,19-06-2023,CUST498,Female,50,Clothing,4,25,100,Adult
+422,20-06-2023,CUST422,Female,28,Clothing,3,30,90,Young Adult
+466,20-06-2023,CUST466,Male,63,Electronics,4,25,100,Senior
+583,21-06-2023,CUST583,Female,24,Electronics,4,25,100,Young Adult
+654,21-06-2023,CUST654,Male,42,Clothing,3,25,75,Adult
+727,22-06-2023,CUST727,Male,55,Beauty,3,300,900,Adult
+830,22-06-2023,CUST830,Female,64,Clothing,3,50,150,Senior
+40,22-06-2023,CUST040,Male,45,Beauty,1,50,50,Adult
+699,22-06-2023,CUST699,Female,37,Clothing,4,30,120,Adult
+271,23-06-2023,CUST271,Female,62,Beauty,4,30,120,Senior
+224,23-06-2023,CUST224,Female,25,Clothing,1,50,50,Young Adult
+36,24-06-2023,CUST036,Male,52,Beauty,3,300,900,Adult
+157,24-06-2023,CUST157,Male,62,Electronics,4,500,2000,Senior
+839,24-06-2023,CUST839,Female,20,Electronics,4,300,1200,Young Adult
+796,24-06-2023,CUST796,Male,43,Beauty,4,30,120,Adult
+927,24-06-2023,CUST927,Male,43,Electronics,4,500,2000,Adult
+407,25-06-2023,CUST407,Female,46,Electronics,3,300,900,Adult
+874,26-06-2023,CUST874,Male,60,Beauty,1,30,30,Senior
+46,26-06-2023,CUST046,Female,20,Electronics,4,300,1200,Young Adult
+509,26-06-2023,CUST509,Female,37,Electronics,3,300,900,Adult
+788,27-06-2023,CUST788,Female,52,Beauty,3,300,900,Adult
+378,28-06-2023,CUST378,Male,50,Beauty,1,300,300,Adult
+737,29-06-2023,CUST737,Female,33,Clothing,1,50,50,Young Adult
+480,29-06-2023,CUST480,Female,42,Beauty,4,500,2000,Adult
+492,29-06-2023,CUST492,Male,61,Beauty,4,25,100,Senior
+878,30-06-2023,CUST878,Female,20,Clothing,1,30,30,Young Adult
+684,30-06-2023,CUST684,Female,28,Clothing,2,500,1000,Young Adult
+837,01-07-2023,CUST837,Male,18,Beauty,3,30,90,Young Adult
+260,01-07-2023,CUST260,Male,28,Beauty,2,30,60,Young Adult
+455,01-07-2023,CUST455,Male,31,Electronics,4,25,100,Young Adult
+78,01-07-2023,CUST078,Female,47,Clothing,3,500,1500,Adult
+45,03-07-2023,CUST045,Female,55,Electronics,1,30,30,Adult
+449,03-07-2023,CUST449,Male,25,Electronics,4,50,200,Young Adult
+904,04-07-2023,CUST904,Male,28,Clothing,1,500,500,Young Adult
+59,05-07-2023,CUST059,Male,62,Clothing,1,50,50,Senior
+186,05-07-2023,CUST186,Male,20,Clothing,4,50,200,Young Adult
+802,05-07-2023,CUST802,Female,46,Beauty,1,30,30,Adult
+128,05-07-2023,CUST128,Male,25,Beauty,1,500,500,Young Adult
+75,06-07-2023,CUST075,Male,61,Beauty,4,50,200,Senior
+528,06-07-2023,CUST528,Female,36,Clothing,2,30,60,Adult
+447,06-07-2023,CUST447,Male,22,Beauty,4,500,2000,Young Adult
+759,08-07-2023,CUST759,Male,49,Electronics,2,50,100,Adult
+870,08-07-2023,CUST870,Female,46,Electronics,4,30,120,Adult
+77,09-07-2023,CUST077,Female,47,Clothing,2,50,100,Adult
+792,09-07-2023,CUST792,Female,20,Beauty,1,50,50,Young Adult
+381,09-07-2023,CUST381,Female,44,Clothing,4,25,100,Adult
+439,09-07-2023,CUST439,Male,50,Clothing,3,25,75,Adult
+176,11-07-2023,CUST176,Female,43,Beauty,2,50,100,Adult
+216,11-07-2023,CUST216,Male,62,Electronics,2,50,100,Senior
+772,12-07-2023,CUST772,Male,26,Electronics,1,30,30,Young Adult
+53,13-07-2023,CUST053,Male,34,Electronics,2,50,100,Young Adult
+71,14-07-2023,CUST071,Female,51,Beauty,4,25,100,Adult
+681,14-07-2023,CUST681,Female,43,Electronics,2,30,60,Adult
+551,14-07-2023,CUST551,Male,45,Electronics,3,300,900,Adult
+302,14-07-2023,CUST302,Male,57,Beauty,2,300,600,Adult
+93,14-07-2023,CUST093,Female,35,Beauty,4,500,2000,Adult
+43,14-07-2023,CUST043,Female,48,Clothing,1,300,300,Adult
+829,14-07-2023,CUST829,Male,61,Beauty,3,30,90,Senior
+722,14-07-2023,CUST722,Male,20,Beauty,3,300,900,Young Adult
+728,14-07-2023,CUST728,Male,51,Electronics,3,50,150,Adult
+955,14-07-2023,CUST955,Male,58,Clothing,1,25,25,Adult
+474,15-07-2023,CUST474,Female,26,Clothing,3,500,1500,Young Adult
+144,15-07-2023,CUST144,Female,59,Beauty,3,500,1500,Adult
+603,16-07-2023,CUST603,Female,40,Clothing,3,30,90,Adult
+661,16-07-2023,CUST661,Female,44,Clothing,4,25,100,Adult
+143,17-07-2023,CUST143,Female,45,Clothing,1,50,50,Adult
+515,17-07-2023,CUST515,Female,49,Clothing,3,300,900,Adult
+686,19-07-2023,CUST686,Female,28,Electronics,4,50,200,Young Adult
+304,19-07-2023,CUST304,Female,37,Electronics,2,30,60,Adult
+676,19-07-2023,CUST676,Male,63,Electronics,3,500,1500,Senior
+698,19-07-2023,CUST698,Female,64,Electronics,1,300,300,Senior
+709,21-07-2023,CUST709,Female,19,Electronics,2,500,1000,Young Adult
+114,22-07-2023,CUST114,Female,22,Beauty,4,25,100,Young Adult
+359,22-07-2023,CUST359,Male,50,Clothing,1,50,50,Adult
+773,23-07-2023,CUST773,Male,25,Electronics,4,500,2000,Young Adult
+495,24-07-2023,CUST495,Male,24,Beauty,2,30,60,Young Adult
+487,24-07-2023,CUST487,Male,44,Clothing,4,500,2000,Adult
+213,24-07-2023,CUST213,Male,27,Beauty,3,500,1500,Young Adult
+605,24-07-2023,CUST605,Male,37,Electronics,2,500,1000,Adult
+127,24-07-2023,CUST127,Female,33,Clothing,2,25,50,Young Adult
+299,25-07-2023,CUST299,Male,61,Electronics,2,500,1000,Senior
+934,25-07-2023,CUST934,Male,30,Beauty,1,500,500,Young Adult
+105,25-07-2023,CUST105,Female,22,Electronics,1,500,500,Young Adult
+270,26-07-2023,CUST270,Male,43,Electronics,1,300,300,Adult
+338,26-07-2023,CUST338,Male,54,Beauty,2,50,100,Adult
+543,26-07-2023,CUST543,Male,49,Beauty,2,300,600,Adult
+557,27-07-2023,CUST557,Female,20,Beauty,3,30,90,Young Adult
+864,27-07-2023,CUST864,Female,51,Electronics,1,500,500,Adult
+702,27-07-2023,CUST702,Female,60,Clothing,2,300,600,Senior
+668,28-07-2023,CUST668,Female,62,Electronics,3,50,150,Senior
+850,28-07-2023,CUST850,Female,26,Beauty,2,500,1000,Young Adult
+457,28-07-2023,CUST457,Female,58,Beauty,3,300,900,Adult
+254,28-07-2023,CUST254,Male,41,Electronics,1,500,500,Adult
+295,28-07-2023,CUST295,Female,27,Beauty,3,300,900,Young Adult
+980,29-07-2023,CUST980,Female,31,Electronics,3,25,75,Young Adult
+541,29-07-2023,CUST541,Male,56,Beauty,1,500,500,Adult
+467,30-07-2023,CUST467,Female,53,Electronics,3,50,150,Adult
+262,30-07-2023,CUST262,Female,32,Beauty,4,30,120,Young Adult
+463,31-07-2023,CUST463,Female,54,Beauty,3,500,1500,Adult
+598,01-08-2023,CUST598,Male,37,Beauty,4,30,120,Adult
+672,01-08-2023,CUST672,Female,34,Beauty,2,50,100,Young Adult
+667,01-08-2023,CUST667,Female,29,Electronics,1,500,500,Young Adult
+949,02-08-2023,CUST949,Female,41,Electronics,2,25,50,Adult
+687,03-08-2023,CUST687,Female,53,Electronics,1,300,300,Adult
+27,03-08-2023,CUST027,Female,38,Beauty,2,25,50,Adult
+347,03-08-2023,CUST347,Male,42,Electronics,1,25,25,Adult
+730,04-08-2023,CUST730,Female,36,Clothing,2,25,50,Adult
+798,04-08-2023,CUST798,Male,61,Clothing,1,50,50,Senior
+675,04-08-2023,CUST675,Female,45,Clothing,2,30,60,Adult
+549,04-08-2023,CUST549,Female,50,Beauty,2,50,100,Adult
+206,05-08-2023,CUST206,Male,61,Clothing,1,25,25,Senior
+35,05-08-2023,CUST035,Female,58,Beauty,3,300,900,Adult
+279,05-08-2023,CUST279,Male,50,Clothing,1,500,500,Adult
+140,05-08-2023,CUST140,Male,38,Electronics,1,30,30,Adult
+261,05-08-2023,CUST261,Male,21,Clothing,2,25,50,Young Adult
+308,05-08-2023,CUST308,Female,34,Beauty,4,300,1200,Young Adult
+13,05-08-2023,CUST013,Male,22,Electronics,3,500,1500,Young Adult
+418,05-08-2023,CUST418,Female,60,Electronics,2,500,1000,Senior
+875,06-08-2023,CUST875,Female,51,Electronics,4,500,2000,Adult
+612,06-08-2023,CUST612,Female,61,Electronics,1,500,500,Senior
+430,07-08-2023,CUST430,Female,43,Electronics,3,300,900,Adult
+633,07-08-2023,CUST633,Male,39,Beauty,4,30,120,Adult
+790,08-08-2023,CUST790,Male,62,Clothing,1,25,25,Senior
+716,08-08-2023,CUST716,Female,60,Clothing,4,300,1200,Senior
+960,08-08-2023,CUST960,Male,59,Clothing,2,30,60,Adult
+125,08-08-2023,CUST125,Male,48,Clothing,2,50,100,Adult
+259,09-08-2023,CUST259,Female,45,Clothing,4,50,200,Adult
+443,09-08-2023,CUST443,Male,29,Clothing,2,300,600,Young Adult
+563,09-08-2023,CUST563,Male,20,Clothing,2,30,60,Young Adult
+529,09-08-2023,CUST529,Female,35,Clothing,3,50,150,Adult
+801,10-08-2023,CUST801,Male,21,Clothing,4,50,200,Young Adult
+160,11-08-2023,CUST160,Female,43,Clothing,2,50,100,Adult
+508,11-08-2023,CUST508,Male,58,Beauty,2,300,600,Adult
+807,11-08-2023,CUST807,Female,50,Electronics,4,50,200,Adult
+511,12-08-2023,CUST511,Male,45,Beauty,2,50,100,Adult
+816,12-08-2023,CUST816,Male,47,Beauty,2,500,1000,Adult
+695,12-08-2023,CUST695,Female,22,Electronics,3,50,150,Young Adult
+521,12-08-2023,CUST521,Female,47,Clothing,4,30,120,Adult
+217,13-08-2023,CUST217,Female,35,Electronics,4,50,200,Adult
+384,13-08-2023,CUST384,Male,55,Clothing,1,500,500,Adult
+926,14-08-2023,CUST926,Male,22,Electronics,1,30,30,Young Adult
+648,14-08-2023,CUST648,Male,53,Beauty,4,300,1200,Adult
+630,15-08-2023,CUST630,Male,42,Clothing,2,50,100,Adult
+427,15-08-2023,CUST427,Male,25,Electronics,1,25,25,Young Adult
+957,15-08-2023,CUST957,Female,60,Electronics,4,30,120,Senior
+570,15-08-2023,CUST570,Male,49,Clothing,1,500,500,Adult
+569,15-08-2023,CUST569,Male,52,Electronics,4,50,200,Adult
+285,15-08-2023,CUST285,Female,31,Electronics,1,25,25,Young Adult
+635,17-08-2023,CUST635,Female,63,Electronics,3,300,900,Senior
+277,18-08-2023,CUST277,Male,36,Clothing,4,25,100,Adult
+29,18-08-2023,CUST029,Female,42,Electronics,1,30,30,Adult
+859,18-08-2023,CUST859,Female,56,Electronics,3,500,1500,Adult
+956,19-08-2023,CUST956,Male,30,Clothing,3,500,1500,Young Adult
+823,19-08-2023,CUST823,Female,56,Electronics,2,50,100,Adult
+981,19-08-2023,CUST981,Female,30,Electronics,2,30,60,Young Adult
+638,19-08-2023,CUST638,Male,46,Electronics,1,500,500,Adult
+219,20-08-2023,CUST219,Female,53,Electronics,3,30,90,Adult
+725,21-08-2023,CUST725,Male,61,Electronics,1,300,300,Senior
+992,21-08-2023,CUST992,Female,57,Electronics,2,30,60,Adult
+306,21-08-2023,CUST306,Male,54,Electronics,1,50,50,Adult
+880,21-08-2023,CUST880,Male,22,Beauty,2,500,1000,Young Adult
+162,21-08-2023,CUST162,Male,39,Clothing,2,30,60,Adult
+73,21-08-2023,CUST073,Male,29,Electronics,3,30,90,Young Adult
+597,22-08-2023,CUST597,Male,22,Beauty,4,300,1200,Young Adult
+622,22-08-2023,CUST622,Female,49,Beauty,3,25,75,Adult
+364,23-08-2023,CUST364,Female,19,Beauty,1,500,500,Young Adult
+116,23-08-2023,CUST116,Female,23,Clothing,1,30,30,Young Adult
+368,23-08-2023,CUST368,Female,56,Clothing,4,300,1200,Adult
+479,24-08-2023,CUST479,Male,52,Electronics,4,300,1200,Adult
+804,24-08-2023,CUST804,Male,42,Electronics,1,30,30,Adult
+50,24-08-2023,CUST050,Female,27,Beauty,3,25,75,Young Adult
+718,25-08-2023,CUST718,Female,59,Beauty,3,25,75,Adult
+282,25-08-2023,CUST282,Female,64,Electronics,4,50,200,Senior
+92,25-08-2023,CUST092,Female,51,Electronics,4,30,120,Adult
+624,26-08-2023,CUST624,Female,34,Beauty,3,300,900,Young Adult
+825,26-08-2023,CUST825,Female,46,Beauty,1,25,25,Adult
+617,26-08-2023,CUST617,Male,34,Electronics,1,30,30,Young Adult
+671,27-08-2023,CUST671,Male,62,Electronics,3,50,150,Senior
+756,27-08-2023,CUST756,Female,62,Electronics,4,300,1200,Senior
+568,27-08-2023,CUST568,Female,51,Electronics,1,300,300,Adult
+815,27-08-2023,CUST815,Female,51,Clothing,3,25,75,Adult
+704,28-08-2023,CUST704,Female,62,Clothing,3,30,90,Senior
+146,28-08-2023,CUST146,Male,38,Clothing,4,50,200,Adult
+263,28-08-2023,CUST263,Male,23,Beauty,2,30,60,Young Adult
+733,29-08-2023,CUST733,Male,34,Beauty,1,30,30,Young Adult
+476,29-08-2023,CUST476,Female,27,Clothing,4,500,2000,Young Adult
+924,29-08-2023,CUST924,Male,55,Beauty,2,50,100,Adult
+984,29-08-2023,CUST984,Male,56,Clothing,1,500,500,Adult
+574,31-08-2023,CUST574,Female,63,Electronics,2,25,50,Senior
+251,31-08-2023,CUST251,Female,57,Beauty,4,50,200,Adult
+253,31-08-2023,CUST253,Female,53,Clothing,4,500,2000,Adult
+871,31-08-2023,CUST871,Male,62,Beauty,2,30,60,Senior
+751,31-08-2023,CUST751,Female,42,Clothing,2,25,50,Adult
+594,01-09-2023,CUST594,Female,19,Electronics,2,300,600,Young Adult
+637,01-09-2023,CUST637,Male,43,Clothing,2,300,600,Adult
+200,01-09-2023,CUST200,Male,27,Beauty,3,50,150,Young Adult
+855,01-09-2023,CUST855,Male,54,Beauty,1,25,25,Adult
+931,02-09-2023,CUST931,Male,30,Beauty,4,30,120,Young Adult
+325,02-09-2023,CUST325,Female,52,Electronics,2,25,50,Adult
+682,02-09-2023,CUST682,Male,46,Beauty,4,300,1200,Adult
+925,03-09-2023,CUST925,Male,25,Electronics,1,300,300,Young Adult
+297,04-09-2023,CUST297,Female,40,Electronics,2,500,1000,Adult
+894,05-09-2023,CUST894,Male,52,Electronics,1,30,30,Adult
+814,05-09-2023,CUST814,Female,59,Clothing,1,500,500,Adult
+644,06-09-2023,CUST644,Male,23,Beauty,3,25,75,Young Adult
+194,06-09-2023,CUST194,Male,55,Clothing,4,50,200,Adult
+696,06-09-2023,CUST696,Female,50,Clothing,4,50,200,Adult
+245,06-09-2023,CUST245,Male,47,Clothing,3,30,90,Adult
+296,06-09-2023,CUST296,Female,22,Clothing,4,300,1200,Young Adult
+312,07-09-2023,CUST312,Male,41,Clothing,4,30,120,Adult
+692,07-09-2023,CUST692,Female,64,Clothing,2,50,100,Senior
+835,07-09-2023,CUST835,Male,37,Clothing,4,50,200,Adult
+183,08-09-2023,CUST183,Female,43,Beauty,3,300,900,Adult
+851,08-09-2023,CUST851,Male,32,Electronics,2,25,50,Young Adult
+413,08-09-2023,CUST413,Female,44,Beauty,3,25,75,Adult
+799,08-09-2023,CUST799,Male,56,Electronics,2,50,100,Adult
+935,09-09-2023,CUST935,Female,34,Beauty,1,50,50,Young Adult
+858,09-09-2023,CUST858,Male,23,Electronics,2,50,100,Young Adult
+919,09-09-2023,CUST919,Female,22,Beauty,2,25,50,Young Adult
+132,10-09-2023,CUST132,Male,42,Electronics,4,50,200,Adult
+832,11-09-2023,CUST832,Male,47,Beauty,4,500,2000,Adult
+604,11-09-2023,CUST604,Female,29,Electronics,4,50,200,Young Adult
+113,13-09-2023,CUST113,Female,41,Electronics,2,25,50,Adult
+165,14-09-2023,CUST165,Female,60,Clothing,4,300,1200,Senior
+326,15-09-2023,CUST326,Female,18,Clothing,3,25,75,Young Adult
+632,16-09-2023,CUST632,Female,26,Electronics,4,25,100,Young Adult
+19,16-09-2023,CUST019,Female,62,Clothing,2,25,50,Senior
+412,16-09-2023,CUST412,Female,19,Electronics,4,500,2000,Young Adult
+172,17-09-2023,CUST172,Male,32,Beauty,2,25,50,Young Adult
+167,17-09-2023,CUST167,Female,43,Clothing,3,50,150,Adult
+375,17-09-2023,CUST375,Male,32,Clothing,1,50,50,Young Adult
+538,17-09-2023,CUST538,Male,18,Clothing,3,50,150,Young Adult
+794,17-09-2023,CUST794,Female,60,Beauty,1,300,300,Senior
+131,18-09-2023,CUST131,Female,21,Beauty,2,300,600,Young Adult
+494,18-09-2023,CUST494,Female,42,Beauty,4,50,200,Adult
+330,18-09-2023,CUST330,Female,25,Beauty,4,50,200,Young Adult
+513,19-09-2023,CUST513,Male,24,Electronics,4,25,100,Young Adult
+573,19-09-2023,CUST573,Male,49,Beauty,2,30,60,Adult
+241,21-09-2023,CUST241,Female,23,Electronics,3,25,75,Young Adult
+579,21-09-2023,CUST579,Female,38,Electronics,1,30,30,Adult
+846,22-09-2023,CUST846,Male,42,Beauty,1,50,50,Adult
+218,22-09-2023,CUST218,Male,64,Beauty,3,30,90,Senior
+616,23-09-2023,CUST616,Male,41,Clothing,2,50,100,Adult
+643,24-09-2023,CUST643,Female,28,Electronics,3,30,90,Young Adult
+523,24-09-2023,CUST523,Female,62,Electronics,1,300,300,Senior
+809,25-09-2023,CUST809,Female,62,Beauty,2,50,100,Senior
+954,25-09-2023,CUST954,Female,50,Electronics,3,300,900,Adult
+351,25-09-2023,CUST351,Female,56,Clothing,3,30,90,Adult
+897,26-09-2023,CUST897,Female,64,Electronics,2,50,100,Senior
+147,28-09-2023,CUST147,Male,23,Electronics,1,300,300,Young Adult
+204,28-09-2023,CUST204,Male,39,Beauty,1,25,25,Adult
+390,28-09-2023,CUST390,Male,39,Electronics,2,50,100,Adult
+626,29-09-2023,CUST626,Female,26,Clothing,4,500,2000,Young Adult
+873,29-09-2023,CUST873,Female,27,Electronics,4,25,100,Young Adult
+179,29-09-2023,CUST179,Male,31,Electronics,1,300,300,Young Adult
+327,29-09-2023,CUST327,Male,57,Electronics,3,50,150,Adult
+789,30-09-2023,CUST789,Female,61,Clothing,4,500,2000,Senior
+196,30-09-2023,CUST196,Female,32,Clothing,3,300,900,Young Adult
+707,01-10-2023,CUST707,Female,26,Clothing,1,500,500,Young Adult
+89,01-10-2023,CUST089,Female,55,Electronics,4,500,2000,Adult
+909,01-10-2023,CUST909,Male,26,Electronics,1,300,300,Young Adult
+51,02-10-2023,CUST051,Male,27,Beauty,3,25,75,Young Adult
+889,02-10-2023,CUST889,Female,35,Electronics,1,50,50,Adult
+497,02-10-2023,CUST497,Male,41,Clothing,4,30,120,Adult
+276,02-10-2023,CUST276,Female,21,Beauty,4,25,100,Young Adult
+154,02-10-2023,CUST154,Male,51,Electronics,3,300,900,Adult
+122,03-10-2023,CUST122,Male,64,Electronics,4,30,120,Senior
+813,03-10-2023,CUST813,Male,52,Electronics,3,50,150,Adult
+688,03-10-2023,CUST688,Male,56,Clothing,4,25,100,Adult
+524,03-10-2023,CUST524,Male,46,Beauty,4,300,1200,Adult
+373,03-10-2023,CUST373,Female,25,Beauty,2,300,600,Young Adult
+208,04-10-2023,CUST208,Female,34,Electronics,4,50,200,Young Adult
+290,04-10-2023,CUST290,Female,30,Beauty,2,300,600,Young Adult
+735,04-10-2023,CUST735,Female,64,Clothing,4,500,2000,Senior
+178,04-10-2023,CUST178,Male,40,Clothing,2,30,60,Adult
+656,04-10-2023,CUST656,Male,29,Beauty,3,30,90,Young Adult
+247,04-10-2023,CUST247,Male,41,Electronics,2,30,60,Adult
+319,05-10-2023,CUST319,Male,31,Clothing,1,500,500,Young Adult
+670,05-10-2023,CUST670,Male,27,Beauty,1,30,30,Young Adult
+385,06-10-2023,CUST385,Male,50,Electronics,3,500,1500,Adult
+689,07-10-2023,CUST689,Male,57,Electronics,2,50,100,Adult
+26,07-10-2023,CUST026,Female,28,Electronics,2,500,1000,Young Adult
+10,07-10-2023,CUST010,Female,52,Clothing,4,50,200,Adult
+437,07-10-2023,CUST437,Female,35,Electronics,4,300,1200,Adult
+634,08-10-2023,CUST634,Male,60,Electronics,4,500,2000,Senior
+558,08-10-2023,CUST558,Female,41,Clothing,1,25,25,Adult
+876,09-10-2023,CUST876,Male,43,Clothing,4,30,120,Adult
+201,09-10-2023,CUST201,Male,56,Electronics,1,25,25,Adult
+286,09-10-2023,CUST286,Male,55,Electronics,2,25,50,Adult
+976,10-10-2023,CUST976,Female,48,Beauty,2,300,600,Adult
+55,10-10-2023,CUST055,Male,31,Beauty,4,30,120,Young Adult
+428,10-10-2023,CUST428,Female,40,Electronics,4,50,200,Adult
+441,10-10-2023,CUST441,Male,57,Beauty,4,300,1200,Adult
+546,11-10-2023,CUST546,Female,36,Electronics,4,50,200,Adult
+227,11-10-2023,CUST227,Male,36,Electronics,2,50,100,Adult
+872,11-10-2023,CUST872,Female,63,Beauty,3,25,75,Senior
+149,11-10-2023,CUST149,Male,22,Clothing,3,25,75,Young Adult
+393,11-10-2023,CUST393,Female,22,Beauty,2,500,1000,Young Adult
+401,11-10-2023,CUST401,Female,62,Clothing,1,300,300,Senior
+914,11-10-2023,CUST914,Female,59,Electronics,1,500,500,Adult
+310,12-10-2023,CUST310,Female,28,Beauty,1,25,25,Young Adult
+852,12-10-2023,CUST852,Female,41,Clothing,1,300,300,Adult
+844,12-10-2023,CUST844,Male,35,Clothing,3,50,150,Adult
+619,13-10-2023,CUST619,Male,47,Electronics,4,25,100,Adult
+97,13-10-2023,CUST097,Female,51,Beauty,2,500,1000,Adult
+948,13-10-2023,CUST948,Female,23,Electronics,3,25,75,Young Adult
+456,14-10-2023,CUST456,Male,57,Electronics,2,30,60,Adult
+627,14-10-2023,CUST627,Male,57,Clothing,1,50,50,Adult
+121,15-10-2023,CUST121,Female,28,Electronics,4,50,200,Young Adult
+22,15-10-2023,CUST022,Male,18,Clothing,2,50,100,Young Adult
+431,15-10-2023,CUST431,Male,63,Electronics,4,300,1200,Senior
+943,16-10-2023,CUST943,Female,57,Clothing,4,300,1200,Adult
+754,16-10-2023,CUST754,Female,43,Electronics,4,25,100,Adult
+370,16-10-2023,CUST370,Male,23,Electronics,2,30,60,Young Adult
+711,16-10-2023,CUST711,Male,26,Electronics,3,500,1500,Young Adult
+350,17-10-2023,CUST350,Male,25,Beauty,3,25,75,Young Adult
+786,17-10-2023,CUST786,Male,48,Clothing,4,25,100,Adult
+191,18-10-2023,CUST191,Male,64,Beauty,1,25,25,Senior
+109,18-10-2023,CUST109,Female,34,Electronics,4,500,2000,Young Adult
+555,19-10-2023,CUST555,Male,25,Beauty,1,300,300,Young Adult
+826,19-10-2023,CUST826,Female,46,Clothing,1,300,300,Adult
+340,19-10-2023,CUST340,Female,36,Clothing,4,300,1200,Adult
+962,19-10-2023,CUST962,Male,44,Clothing,2,30,60,Adult
+249,20-10-2023,CUST249,Male,20,Clothing,1,50,50,Young Adult
+922,21-10-2023,CUST922,Male,41,Electronics,1,50,50,Adult
+680,22-10-2023,CUST680,Female,53,Clothing,3,300,900,Adult
+600,22-10-2023,CUST600,Female,59,Beauty,2,500,1000,Adult
+770,22-10-2023,CUST770,Male,32,Clothing,1,50,50,Young Adult
+60,23-10-2023,CUST060,Male,30,Beauty,3,50,150,Young Adult
+937,23-10-2023,CUST937,Female,62,Beauty,1,500,500,Senior
+516,23-10-2023,CUST516,Male,30,Beauty,4,25,100,Young Adult
+250,23-10-2023,CUST250,Male,48,Electronics,1,50,50,Adult
+342,24-10-2023,CUST342,Female,43,Clothing,4,500,2000,Adult
+767,24-10-2023,CUST767,Male,39,Beauty,3,25,75,Adult
+564,24-10-2023,CUST564,Male,50,Electronics,2,50,100,Adult
+318,24-10-2023,CUST318,Male,61,Clothing,1,25,25,Senior
+869,25-10-2023,CUST869,Male,37,Beauty,3,500,1500,Adult
+503,25-10-2023,CUST503,Male,45,Beauty,4,500,2000,Adult
+126,26-10-2023,CUST126,Female,28,Clothing,3,30,90,Young Adult
+349,26-10-2023,CUST349,Female,57,Beauty,1,50,50,Adult
+440,26-10-2023,CUST440,Male,64,Clothing,2,300,600,Senior
+677,27-10-2023,CUST677,Female,19,Beauty,3,500,1500,Young Adult
+324,27-10-2023,CUST324,Female,52,Electronics,3,50,150,Adult
+124,27-10-2023,CUST124,Male,33,Clothing,4,500,2000,Young Adult
+30,29-10-2023,CUST030,Female,39,Beauty,3,300,900,Adult
+959,29-10-2023,CUST959,Female,42,Electronics,2,30,60,Adult
+896,29-10-2023,CUST896,Female,30,Electronics,2,25,50,Young Adult
+998,29-10-2023,CUST998,Female,23,Beauty,4,25,100,Young Adult
+226,29-10-2023,CUST226,Female,61,Clothing,1,50,50,Senior
+229,29-10-2023,CUST229,Male,58,Beauty,3,30,90,Adult
+12,30-10-2023,CUST012,Male,35,Beauty,3,25,75,Adult
+817,31-10-2023,CUST817,Male,30,Beauty,4,50,200,Young Adult
+776,31-10-2023,CUST776,Male,35,Clothing,3,30,90,Adult
+710,31-10-2023,CUST710,Female,26,Electronics,3,500,1500,Young Adult
+983,01-11-2023,CUST983,Female,29,Clothing,1,300,300,Young Adult
+334,01-11-2023,CUST334,Male,31,Electronics,3,300,900,Young Adult
+628,01-11-2023,CUST628,Female,19,Beauty,4,50,200,Young Adult
+343,01-11-2023,CUST343,Male,21,Electronics,2,25,50,Young Adult
+841,02-11-2023,CUST841,Male,31,Electronics,4,25,100,Young Adult
+141,02-11-2023,CUST141,Female,22,Electronics,1,50,50,Young Adult
+145,02-11-2023,CUST145,Female,39,Clothing,3,25,75,Adult
+898,02-11-2023,CUST898,Female,42,Clothing,3,30,90,Adult
+951,02-11-2023,CUST951,Male,33,Beauty,2,50,100,Young Adult
+507,02-11-2023,CUST507,Female,37,Electronics,3,500,1500,Adult
+181,03-11-2023,CUST181,Male,19,Electronics,4,300,1200,Young Adult
+784,04-11-2023,CUST784,Female,34,Electronics,1,500,500,Young Adult
+690,05-11-2023,CUST690,Female,52,Clothing,3,300,900,Adult
+20,05-11-2023,CUST020,Male,22,Clothing,3,300,900,Young Adult
+47,06-11-2023,CUST047,Female,40,Beauty,3,500,1500,Adult
+405,06-11-2023,CUST405,Female,25,Clothing,4,300,1200,Young Adult
+565,07-11-2023,CUST565,Female,45,Beauty,2,30,60,Adult
+950,07-11-2023,CUST950,Male,36,Clothing,3,300,900,Adult
+761,07-11-2023,CUST761,Female,33,Clothing,1,500,500,Young Adult
+762,07-11-2023,CUST762,Female,24,Electronics,2,25,50,Young Adult
+205,07-11-2023,CUST205,Female,43,Clothing,1,25,25,Adult
+512,07-11-2023,CUST512,Female,57,Beauty,1,25,25,Adult
+173,08-11-2023,CUST173,Male,64,Electronics,4,30,120,Senior
+86,08-11-2023,CUST086,Male,19,Beauty,3,30,90,Young Adult
+595,09-11-2023,CUST595,Female,18,Clothing,4,500,2000,Young Adult
+827,09-11-2023,CUST827,Male,61,Beauty,3,300,900,Senior
+965,09-11-2023,CUST965,Male,22,Clothing,4,50,200,Young Adult
+388,10-11-2023,CUST388,Male,50,Electronics,1,25,25,Adult
+631,10-11-2023,CUST631,Male,56,Electronics,3,30,90,Adult
+812,12-11-2023,CUST812,Male,19,Electronics,3,25,75,Young Adult
+554,12-11-2023,CUST554,Female,46,Beauty,3,50,150,Adult
+952,13-11-2023,CUST952,Female,57,Clothing,1,25,25,Adult
+58,13-11-2023,CUST058,Male,18,Clothing,4,300,1200,Young Adult
+582,14-11-2023,CUST582,Male,35,Clothing,3,300,900,Adult
+458,14-11-2023,CUST458,Female,39,Electronics,4,25,100,Adult
+345,14-11-2023,CUST345,Male,62,Electronics,1,30,30,Senior
+963,14-11-2023,CUST963,Female,55,Beauty,1,50,50,Adult
+747,15-11-2023,CUST747,Male,23,Beauty,1,30,30,Young Adult
+369,15-11-2023,CUST369,Male,23,Electronics,3,500,1500,Young Adult
+706,15-11-2023,CUST706,Male,51,Electronics,4,25,100,Adult
+533,16-11-2023,CUST533,Male,19,Electronics,3,500,1500,Young Adult
+997,17-11-2023,CUST997,Male,52,Beauty,3,30,90,Adult
+645,17-11-2023,CUST645,Female,35,Electronics,4,30,120,Adult
+968,17-11-2023,CUST968,Female,48,Clothing,3,300,900,Adult
+169,17-11-2023,CUST169,Male,18,Beauty,3,500,1500,Young Adult
+57,18-11-2023,CUST057,Female,63,Beauty,1,30,30,Senior
+137,18-11-2023,CUST137,Male,46,Beauty,2,500,1000,Adult
+778,18-11-2023,CUST778,Female,47,Beauty,4,25,100,Adult
+938,19-11-2023,CUST938,Male,49,Clothing,4,50,200,Adult
+599,19-11-2023,CUST599,Female,28,Beauty,2,50,100,Young Adult
+234,20-11-2023,CUST234,Female,62,Electronics,2,25,50,Senior
+410,21-11-2023,CUST410,Female,29,Clothing,2,50,100,Young Adult
+581,21-11-2023,CUST581,Female,48,Beauty,2,30,60,Adult
+417,21-11-2023,CUST417,Male,43,Electronics,3,300,900,Adult
+74,22-11-2023,CUST074,Female,18,Beauty,4,500,2000,Young Adult
+87,22-11-2023,CUST087,Female,28,Beauty,2,50,100,Young Adult
+803,22-11-2023,CUST803,Male,39,Clothing,4,25,100,Adult
+424,23-11-2023,CUST424,Male,57,Beauty,4,300,1200,Adult
+641,23-11-2023,CUST641,Female,40,Electronics,1,300,300,Adult
+918,23-11-2023,CUST918,Female,42,Electronics,3,30,90,Adult
+1,24-11-2023,CUST001,Male,34,Beauty,3,50,150,Young Adult
+95,24-11-2023,CUST095,Female,32,Clothing,2,30,60,Young Adult
+171,24-11-2023,CUST171,Female,52,Clothing,3,300,900,Adult
+156,25-11-2023,CUST156,Female,43,Clothing,4,25,100,Adult
+493,25-11-2023,CUST493,Male,41,Beauty,2,25,50,Adult
+715,26-11-2023,CUST715,Female,42,Beauty,4,25,100,Adult
+115,26-11-2023,CUST115,Male,51,Clothing,3,500,1500,Adult
+362,27-11-2023,CUST362,Male,50,Clothing,1,25,25,Adult
+267,27-11-2023,CUST267,Female,32,Beauty,3,30,90,Young Adult
+856,27-11-2023,CUST856,Male,54,Electronics,4,30,120,Adult
+84,28-11-2023,CUST084,Female,38,Electronics,3,30,90,Adult
+795,28-11-2023,CUST795,Male,57,Electronics,1,300,300,Adult
+739,29-11-2023,CUST739,Male,36,Beauty,1,25,25,Adult
+215,29-11-2023,CUST215,Male,58,Clothing,3,500,1500,Adult
+24,29-11-2023,CUST024,Female,49,Clothing,1,300,300,Adult
+289,30-11-2023,CUST289,Male,53,Electronics,2,30,60,Adult
+741,30-11-2023,CUST741,Male,48,Clothing,1,300,300,Adult
+810,30-11-2023,CUST810,Male,59,Electronics,4,25,100,Adult
+266,01-12-2023,CUST266,Female,19,Electronics,2,30,60,Young Adult
+389,01-12-2023,CUST389,Male,21,Clothing,2,25,50,Young Adult
+112,02-12-2023,CUST112,Male,37,Clothing,3,500,1500,Adult
+608,02-12-2023,CUST608,Female,55,Electronics,3,500,1500,Adult
+566,02-12-2023,CUST566,Female,64,Clothing,1,30,30,Senior
+348,03-12-2023,CUST348,Female,35,Electronics,2,300,600,Adult
+576,04-12-2023,CUST576,Female,33,Beauty,3,50,150,Young Adult
+258,04-12-2023,CUST258,Female,37,Clothing,1,50,50,Adult
+485,04-12-2023,CUST485,Male,24,Electronics,1,30,30,Young Adult
+199,04-12-2023,CUST199,Male,45,Beauty,3,500,1500,Adult
+311,05-12-2023,CUST311,Female,32,Beauty,4,25,100,Young Adult
+999,05-12-2023,CUST999,Female,36,Electronics,3,50,150,Adult
+65,05-12-2023,CUST065,Male,51,Electronics,4,500,2000,Adult
+971,05-12-2023,CUST971,Female,27,Electronics,4,50,200,Young Adult
+791,05-12-2023,CUST791,Female,51,Beauty,1,25,25,Adult
+868,06-12-2023,CUST868,Female,25,Electronics,1,300,300,Young Adult
+535,06-12-2023,CUST535,Male,47,Beauty,3,30,90,Adult
+580,06-12-2023,CUST580,Female,31,Clothing,3,500,1500,Young Adult
+395,06-12-2023,CUST395,Male,50,Electronics,2,500,1000,Adult
+712,06-12-2023,CUST712,Female,57,Beauty,2,25,50,Adult
+531,07-12-2023,CUST531,Male,31,Electronics,1,500,500,Young Adult
+550,07-12-2023,CUST550,Male,40,Clothing,3,300,900,Adult
+453,08-12-2023,CUST453,Female,26,Clothing,2,500,1000,Young Adult
+625,08-12-2023,CUST625,Male,31,Clothing,1,300,300,Young Adult
+392,08-12-2023,CUST392,Male,27,Clothing,2,300,600,Young Adult
+540,08-12-2023,CUST540,Female,46,Electronics,3,300,900,Adult
+468,09-12-2023,CUST468,Male,40,Electronics,1,25,25,Adult
+355,09-12-2023,CUST355,Female,55,Electronics,1,500,500,Adult
+828,09-12-2023,CUST828,Female,33,Electronics,4,300,1200,Young Adult
+244,09-12-2023,CUST244,Male,28,Beauty,2,50,100,Young Adult
+752,09-12-2023,CUST752,Male,29,Clothing,2,50,100,Young Adult
+700,09-12-2023,CUST700,Male,36,Electronics,4,500,2000,Adult
+80,10-12-2023,CUST080,Female,64,Clothing,2,30,60,Senior
+214,10-12-2023,CUST214,Male,20,Beauty,2,30,60,Young Adult
+361,10-12-2023,CUST361,Female,34,Electronics,4,300,1200,Young Adult
+526,10-12-2023,CUST526,Male,33,Clothing,2,50,100,Young Adult
+586,11-12-2023,CUST586,Male,50,Electronics,1,50,50,Adult
+265,11-12-2023,CUST265,Male,55,Clothing,3,300,900,Adult
+336,12-12-2023,CUST336,Female,52,Beauty,3,50,150,Adult
+571,12-12-2023,CUST571,Female,41,Electronics,1,50,50,Adult
+771,13-12-2023,CUST771,Male,24,Electronics,2,25,50,Young Adult
+9,13-12-2023,CUST009,Male,63,Electronics,2,300,600,Senior
+552,13-12-2023,CUST552,Female,49,Electronics,3,25,75,Adult
+701,14-12-2023,CUST701,Female,52,Beauty,2,30,60,Adult
+496,14-12-2023,CUST496,Male,23,Clothing,2,300,600,Young Adult
+139,15-12-2023,CUST139,Male,36,Beauty,4,500,2000,Adult
+151,15-12-2023,CUST151,Male,29,Clothing,1,50,50,Young Adult
+83,16-12-2023,CUST083,Male,54,Electronics,2,50,100,Adult
+153,16-12-2023,CUST153,Male,63,Electronics,2,500,1000,Senior
+451,16-12-2023,CUST451,Female,45,Electronics,1,30,30,Adult
+783,17-12-2023,CUST783,Female,56,Clothing,1,300,300,Adult
+99,17-12-2023,CUST099,Female,50,Electronics,4,300,1200,Adult
+525,18-12-2023,CUST525,Female,47,Beauty,2,25,50,Adult
+994,18-12-2023,CUST994,Female,51,Beauty,2,500,1000,Adult
+409,18-12-2023,CUST409,Female,21,Electronics,3,300,900,Young Adult
+939,18-12-2023,CUST939,Female,46,Electronics,1,300,300,Adult
+96,19-12-2023,CUST096,Female,44,Clothing,2,300,600,Adult
+982,19-12-2023,CUST982,Female,46,Beauty,3,30,90,Adult
+609,19-12-2023,CUST609,Female,47,Clothing,2,50,100,Adult
+777,20-12-2023,CUST777,Male,48,Electronics,3,50,150,Adult
+209,20-12-2023,CUST209,Female,30,Electronics,4,50,200,Young Adult
+890,20-12-2023,CUST890,Male,34,Electronics,2,25,50,Young Adult
+435,20-12-2023,CUST435,Female,30,Beauty,3,300,900,Young Adult
+854,20-12-2023,CUST854,Male,29,Clothing,1,50,50,Young Adult
+865,21-12-2023,CUST865,Female,42,Clothing,1,300,300,Adult
+662,22-12-2023,CUST662,Male,48,Beauty,2,500,1000,Adult
+678,23-12-2023,CUST678,Female,60,Electronics,3,300,900,Senior
+615,23-12-2023,CUST615,Female,61,Clothing,4,25,100,Senior
+602,23-12-2023,CUST602,Female,20,Electronics,1,300,300,Young Adult
+544,23-12-2023,CUST544,Female,27,Electronics,1,25,25,Young Adult
+781,23-12-2023,CUST781,Male,35,Beauty,1,500,500,Adult
+309,23-12-2023,CUST309,Female,26,Beauty,1,25,25,Young Adult
+34,24-12-2023,CUST034,Female,51,Clothing,3,50,150,Adult
+916,24-12-2023,CUST916,Female,32,Electronics,1,50,50,Young Adult
+757,25-12-2023,CUST757,Female,43,Electronics,4,300,1200,Adult
+82,26-12-2023,CUST082,Female,32,Beauty,4,50,200,Young Adult
+25,26-12-2023,CUST025,Female,64,Beauty,1,50,50,Senior
+842,26-12-2023,CUST842,Female,47,Clothing,2,300,600,Adult
+472,26-12-2023,CUST472,Female,38,Beauty,3,300,900,Adult
+991,26-12-2023,CUST991,Female,34,Clothing,2,50,100,Young Adult
+879,26-12-2023,CUST879,Male,23,Clothing,1,30,30,Young Adult
+62,27-12-2023,CUST062,Male,18,Beauty,2,50,100,Young Adult
+386,27-12-2023,CUST386,Female,54,Electronics,2,300,600,Adult
+989,28-12-2023,CUST989,Female,44,Electronics,1,25,25,Adult
+664,28-12-2023,CUST664,Female,44,Clothing,4,500,2000,Adult
+429,28-12-2023,CUST429,Male,64,Electronics,2,25,50,Senior
+908,29-12-2023,CUST908,Male,46,Beauty,4,300,1200,Adult
+520,29-12-2023,CUST520,Female,49,Electronics,4,25,100,Adult
+233,29-12-2023,CUST233,Female,51,Beauty,2,300,600,Adult
+805,29-12-2023,CUST805,Female,30,Beauty,3,500,1500,Young Adult
+857,31-12-2023,CUST857,Male,60,Electronics,2,25,50,Senior
+211,01-01-2024,CUST211,Male,42,Beauty,3,500,1500,Adult
+650,01-01-2024,CUST650,Male,55,Electronics,1,30,30,Adult
